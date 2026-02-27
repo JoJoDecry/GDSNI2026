@@ -274,22 +274,22 @@
         const continueBtn = document.getElementById('continue-btn');
         const feedbackDiv = document.getElementById('feedback');
 
-               async function caricaQuiz(fileUrl) {
+                       async function caricaQuiz(fileUrl) {
             questions = [];
             isSimulation = false;
             try {
                 const res = await fetch(fileUrl);
                 
                 if (!res.ok) {
-                    alert("⚠️ File " + fileUrl + " non trovato. Assicurati di averlo creato e caricato su GitHub!");
+                    alert("⚠️ File " + fileUrl + " non trovato (Errore " + res.status + "). Assicurati di averlo creato su GitHub!");
                     tornaAlMenu();
                     return;
                 }
                 
                 questions = await res.json();
                 
-                if (!questions || !Array.isArray(questions) || questions.length === 0) {
-                    alert("⚠️ Il file " + fileUrl + " esiste ma è vuoto o non contiene un array valido di domande.");
+                if (!questions || questions.length === 0) {
+                    alert("⚠️ Il file " + fileUrl + " è vuoto o non ha domande valide.");
                     tornaAlMenu();
                     return;
                 }
@@ -298,8 +298,14 @@
                 avviaQuiz();
                 
             } catch (e) {
-                console.error("Errore dettagliato:", e);
-                alert("⚠️ Impossibile caricare " + fileUrl + ". Potrebbe esserci un errore di sintassi nel file JSON.");
+                console.error("Errore dettagliato (Possibile blocco CORS se sei in locale):", e);
+                
+                if (window.location.protocol === 'file:') {
+                    alert("⚠️ Errore di sicurezza del Browser! Stai aprendo l'HTML in locale dal tuo computer. I browser moderni bloccano il caricamento dei file JSON per motivi di sicurezza (CORS). Carica i file su GitHub per farlo funzionare, oppure usa un server locale (es. Live Server su VS Code).");
+                } else {
+                    alert("⚠️ Impossibile caricare " + fileUrl + ".\nIl file JSON potrebbe avere un errore di punteggiatura (es. una virgola di troppo). Controllalo!");
+                }
+                
                 tornaAlMenu();
             }
         }
