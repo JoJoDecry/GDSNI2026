@@ -1,0 +1,448 @@
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Corporate Security Quiz</title>
+    <style>
+        :root {
+            --primary: #4a5568;      /* Grey text */
+            --secondary: #2d3748;    /* Dark grey text */
+            --accent: #3182ce;       /* Blue */
+            --accent-light: #ebf8ff; /* Light Blue bg */
+            --success: #38a169;
+            --danger: #e53e3e;
+            --warning: #dd6b20;
+            --bg-grad: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%); /* Whitish/Grey background */
+        }
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background: var(--bg-grad);
+            margin: 0;
+            padding: 10px; /* Reduced padding */
+            min-height: 100vh;
+            color: var(--secondary);
+            line-height: 1.5;
+        }
+        .container {
+            max-width: 800px; /* Smaller width */
+            margin: 0 auto;
+            background: #ffffff;
+            border-radius: 16px; /* Smaller radius */
+            box-shadow: 0 10px 30px rgba(0,0,0,0.08); /* Softer shadow */
+            padding: 25px; /* Smaller padding */
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 25px;
+        }
+        h1 {
+            font-size: 2em; /* Smaller font */
+            color: var(--accent);
+            margin: 0;
+            font-weight: 700;
+        }
+        .course-info {
+            background: var(--accent-light);
+            padding: 15px;
+            border-radius: 12px;
+            margin-top: 10px;
+            font-size: 1em;
+            color: var(--secondary);
+            border-left: 4px solid var(--accent);
+        }
+        .question {
+            font-size: 1.25em; /* Smaller font */
+            font-weight: 600;
+            margin-bottom: 20px;
+            padding: 15px;
+            background: #f8fafc; /* Very light grey */
+            border: 1px solid #e2e8f0;
+            border-radius: 12px;
+        }
+        .options {
+            display: grid;
+            gap: 12px; /* Tighter gap */
+            margin-bottom: 20px;
+        }
+        button {
+            background: #ffffff;
+            color: var(--secondary);
+            border: 2px solid #e2e8f0;
+            padding: 15px 20px; /* Smaller padding */
+            border-radius: 12px; /* Smaller radius */
+            font-size: 1.05em; /* Smaller font */
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            text-align: left; /* Align text to left for better readability */
+        }
+        button:hover:not(:disabled) {
+            background: var(--accent-light);
+            border-color: var(--accent);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(49, 130, 206, 0.15);
+        }
+        button:disabled {
+            opacity: 0.7;
+            cursor: not-allowed;
+            transform: none;
+        }
+        button.correct {
+            background: var(--success) !important;
+            color: white !important;
+            border-color: #2f855a !important;
+        }
+        button.incorrect {
+            background: var(--danger) !important;
+            color: white !important;
+            border-color: #c53030 !important;
+        }
+        .score {
+            text-align: center;
+            font-size: 2em;
+            font-weight: 800;
+            color: var(--success);
+            margin: 30px 0;
+            padding: 15px;
+            border-radius: 16px;
+        }
+        .progress {
+            background: #e2e8f0;
+            height: 10px;
+            border-radius: 8px;
+            margin: 20px 0;
+            overflow: hidden;
+        }
+        .progress-bar {
+            background: var(--accent);
+            height: 100%;
+            transition: width 0.5s ease;
+            border-radius: 8px;
+        }
+        .feedback {
+            margin-top: 15px;
+            font-size: 1.1em;
+            text-align: center;
+            padding: 15px;
+            border-radius: 12px;
+            display: none; /* Hidden by default */
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            color: var(--primary);
+            font-size: 0.9em;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 15px;
+        }
+        .shield-icon {
+            font-size: 2.5em;
+            display: block;
+            margin: 0 auto 5px;
+            color: var(--accent);
+        }
+        .menu-btn {
+            background: #ffffff;
+            color: var(--secondary);
+            border: 2px solid var(--accent);
+            padding: 12px 18px;
+            border-radius: 10px;
+            font-size: 1em;
+            font-weight: 600;
+            cursor: pointer;
+            text-align: center;
+            transition: all 0.2s ease;
+        }
+        .menu-btn:hover {
+            background: var(--accent);
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(49, 130, 206, 0.2);
+        }
+        .sim-btn {
+            border-color: var(--danger) !important;
+            color: var(--danger);
+        }
+        .sim-btn:hover {
+            background: var(--danger) !important;
+            color: white;
+            box-shadow: 0 4px 15px rgba(229, 62, 62, 0.2) !important;
+        }
+        #quiz-container {
+            display: none;
+        }
+        #back-btn {
+            display: none;
+            margin: 20px auto 0;
+            background: #cbd5e0;
+            color: var(--secondary);
+            border: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background 0.3s;
+            text-align: center;
+        }
+        #back-btn:hover {
+            background: #a0aec0;
+        }
+        /* New button for continuing when wrong in lesson mode */
+        #continue-btn {
+            display: none;
+            margin: 15px auto 0;
+            background: var(--warning);
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 10px;
+            font-size: 1.1em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        #continue-btn:hover {
+            background: #c05621;
+        }
+        @media (max-width: 768px) {
+            .container { padding: 15px; margin: 5px; }
+            h1 { font-size: 1.8em; }
+            button { padding: 12px 15px; font-size: 1em; }
+        }
+</style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <span class="shield-icon">🛡️</span>
+            <h1>Corporate Security Quiz</h1>
+            <div class="course-info">
+                Gestione della sicurezza nelle imprese 2026
+            </div>
+        </div>
+        
+    <div id="menu-container">
+        <h2 style="text-align:center; color:var(--secondary); margin-bottom:20px;">Seleziona il modulo su cui esercitarsi</h2>
+        <div class="menu-options" style="display: grid; gap: 15px; margin-bottom: 30px;">
+            <button onclick="caricaQuiz('questions.json')" class="menu-btn">📘 Lezione 1</button>
+            <button onclick="caricaQuiz('lezione2.json')" class="menu-btn">📘 Lezione 2</button>
+            <button onclick="caricaQuiz('lezione3.json')" class="menu-btn">📘 Lezione 3</button>
+            <button onclick="caricaQuiz('lezione4.json')" class="menu-btn">📘 Lezione 4</button>
+            <button onclick="caricaQuiz('lezione5.json')" class="menu-btn">📘 Lezione 5</button>
+             <button onclick="caricaQuiz('lezione6.json')" class="menu-btn">📘 Lezione 6</button>
+             <button onclick="caricaQuiz('lezione7.json')" class="menu-btn">📘 Lezione 7</button>
+            <button onclick="generaEsameCasuale()" class="menu-btn sim-btn" >🎓 Simulazione Esame (30 domande casuali)</button>
+        </div>
+    </div>
+
+    <div id="quiz-container">
+        <div id="quiz"></div>
+    </div>
+    <div style="text-align:center;"><button id="back-btn" onclick="tornaAlMenu()">⬅ Torna al Menu</button></div>
+        <div class="progress"><div class="progress-bar" id="progress" style="width:0%"></div></div>
+        <div id="score" class="score" style="display:none;"></div>
+        <div class="footer">
+            📄 Estratto dal corso Gestione della sicurezza nelle imprese 2026</a> | JoJoDecry
+        </div>
+    </div>
+    <script>
+
+        let questions = [];
+        let i = 0;
+        let score = 0;
+        let currentQ;
+        let isSimulation = false; 
+
+        const tuttiIFile = [
+            'questions.json',
+            'lezione2.json',
+            'lezione3.json',
+            'lezione4.json',
+            'lezione5.json',
+            'lezione6.json',
+            'lezione7.json'
+        ];
+
+        const quizDiv = document.getElementById('quiz');
+        const progress = document.getElementById('progress');
+        const scoreDiv = document.getElementById('score');
+        const menuContainer = document.getElementById('menu-container');
+        const quizContainer = document.getElementById('quiz-container');
+        const backBtn = document.getElementById('back-btn');
+        const continueBtn = document.getElementById('continue-btn');
+        const feedbackDiv = document.getElementById('feedback');
+
+        async function caricaQuiz(fileUrl) {
+            questions = [];
+            isSimulation = false;
+            try {
+                const res = await fetch(fileUrl);
+                if (!res.ok) {
+                    alert("⚠️ File " + fileUrl + " non trovato. Assicurati di averlo creato e caricato su GitHub!");
+                    tornaAlMenu();
+                    return;
+                }
+                const testText = await res.text();
+                if (!testText || testText.trim() === "") {
+                    alert("⚠️ Il file " + fileUrl + " esiste ma è vuoto!");
+                    tornaAlMenu();
+                    return;
+                }
+                questions = JSON.parse(testText);
+                if (!Array.isArray(questions) || questions.length === 0) {
+                    alert("⚠️ Il file " + fileUrl + " non contiene un array valido di domande.");
+                    tornaAlMenu();
+                    return;
+                }
+                questions.sort(() => Math.random() - 0.5);
+                avviaQuiz();
+            } catch (e) {
+                console.error("Errore dettagliato:", e);
+                alert("⚠️ Impossibile caricare " + fileUrl + ". Potrebbe esserci un errore di sintassi nel file JSON.");
+                tornaAlMenu();
+            }
+        }
+
+        async function generaEsameCasuale() {
+            let tutteLeDomande = [];
+            let caricati = 0;
+            isSimulation = true; 
+
+            quizDiv.innerHTML = '<div style="text-align:center"><h3>Sto generando l\'esame... ⏳</h3></div>';
+            menuContainer.style.display = 'none';
+            quizContainer.style.display = 'block';
+            backBtn.style.display = 'inline-block';
+            feedbackDiv.style.display = 'none';
+            continueBtn.style.display = 'none';
+
+            for (let url of tuttiIFile) {
+                try {
+                    const res = await fetch(url);
+                    if (res.ok) {
+                        const q = await res.json();
+                        tutteLeDomande = tutteLeDomande.concat(q);
+                        caricati++;
+                    }
+                } catch(e) {}
+            }
+
+            if (caricati === 0) {
+                alert("Non sono riuscito a trovare nessun file JSON. Assicurati che questions.json sia presente!");
+                tornaAlMenu();
+                return;
+            }
+
+            tutteLeDomande.sort(() => Math.random() - 0.5);
+            const limiteDomande = Math.min(30, tutteLeDomande.length);
+            questions = tutteLeDomande.slice(0, limiteDomande);
+            avviaQuiz();
+        }
+
+        function avviaQuiz() {
+            i = 0;
+            score = 0;
+            menuContainer.style.display = 'none';
+            quizContainer.style.display = 'block';
+            backBtn.style.display = 'inline-block';
+            scoreDiv.style.display = 'none';
+            showQuestion();
+        }
+
+        function tornaAlMenu() {
+            menuContainer.style.display = 'block';
+            quizContainer.style.display = 'none';
+            backBtn.style.display = 'none';
+            scoreDiv.style.display = 'none';
+            feedbackDiv.style.display = 'none';
+            continueBtn.style.display = 'none';
+            progress.style.width = '0%';
+        }
+
+        function showQuestion() {
+            feedbackDiv.style.display = 'none';
+            continueBtn.style.display = 'none';
+
+            if (i >= questions.length) {
+                quizDiv.innerHTML = `
+                    <div style="text-align:center">
+                        <h2>🎯 Quiz Completato!</h2>
+                        <p>Ottimo lavoro!</p>
+                    </div>`;
+                const perc = Math.round((score / questions.length) * 100);
+                scoreDiv.textContent = `Punteggio: ${score}/${questions.length} (${perc}%)`;
+                scoreDiv.style.display = 'block';
+                progress.style.width = '100%';
+                return;
+            }
+
+            currentQ = questions[i];
+            const correctIndex = currentQ.options.indexOf(currentQ.answer);
+
+            quizDiv.innerHTML = `
+                <div class="question">Q${i+1}/${questions.length}:<br><br>${currentQ.question}</div>
+                <div class="options">
+                    ${currentQ.options.map((opt, j) => 
+                        `<button onclick="selectAnswer(${j}, ${correctIndex})">${opt}</button>`
+                    ).join('')}
+                </div>
+            `;
+
+            progress.style.width = `${(i / questions.length) * 100}%`;
+        }
+
+        function selectAnswer(selected, correct) {
+            const buttons = document.querySelectorAll('.options button');
+            buttons.forEach((btn, j) => {
+                btn.disabled = true;
+                if (j === correct) btn.classList.add('correct');
+                else if (j === selected && j !== correct) btn.classList.add('incorrect');
+            });
+
+            feedbackDiv.style.display = 'block';
+            let explanationText = "";
+
+            if (currentQ.explanation && !isSimulation) {
+                explanationText = `<br><br><strong>Spiegazione:</strong> ${currentQ.explanation}`;
+            }
+
+            if (selected === correct) {
+                score++;
+                feedbackDiv.innerHTML = `<strong>Risposta Corretta!</strong> ${explanationText}`;
+                feedbackDiv.style.color = "var(--success)";
+                feedbackDiv.style.background = "rgba(56,161,105,0.1)";
+
+                // Se è corretta (o simulazione), vai avanti col timer normale
+                const tempoAttesa = isSimulation ? 1500 : 3000;
+                setTimeout(() => {
+                    i++;
+                    showQuestion();
+                }, tempoAttesa);
+
+            } else {
+                feedbackDiv.innerHTML = `<strong>Errata.</strong> La risposta corretta era: <br><em>${currentQ.answer}</em> ${explanationText}`;
+                feedbackDiv.style.color = "var(--danger)";
+                feedbackDiv.style.background = "rgba(229,62,62,0.1)";
+
+                if (isSimulation) {
+                    // Nella simulazione vai avanti in automatico comunque
+                    setTimeout(() => {
+                        i++;
+                        showQuestion();
+                    }, 1500);
+                } else {
+                    // Nelle lezioni (se sbagli), NON vai avanti. Mostri il pulsante per continuare
+                    continueBtn.style.display = 'block';
+                }
+            }
+        }
+
+        function nextQuestion() {
+            i++;
+            showQuestion();
+        }
+
+</script>
+</body>
+</html>
