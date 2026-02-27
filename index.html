@@ -7,38 +7,38 @@
     <title>Corporate Security Quiz</title>
     <style>
         :root {
-            --primary: #4a5568;      /* Grey text */
-            --secondary: #2d3748;    /* Dark grey text */
-            --accent: #3182ce;       /* Blue */
-            --accent-light: #ebf8ff; /* Light Blue bg */
+            --primary: #4a5568;    
+            --secondary: #2d3748;   
+            --accent: #3182ce;       
+            --accent-light: #ebf8ff; 
             --success: #38a169;
             --danger: #e53e3e;
             --warning: #dd6b20;
-            --bg-grad: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%); /* Whitish/Grey background */
+            --bg-grad: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%); 
         }
         body {
             font-family: 'Segoe UI', system-ui, sans-serif;
             background: var(--bg-grad);
             margin: 0;
-            padding: 10px; /* Reduced padding */
+            padding: 10px;
             min-height: 100vh;
             color: var(--secondary);
             line-height: 1.5;
         }
         .container {
-            max-width: 800px; /* Smaller width */
+            max-width: 800px; 
             margin: 0 auto;
             background: #ffffff;
-            border-radius: 16px; /* Smaller radius */
-            box-shadow: 0 10px 30px rgba(0,0,0,0.08); /* Softer shadow */
-            padding: 25px; /* Smaller padding */
+            border-radius: 16px; 
+            box-shadow: 0 10px 30px rgba(0,0,0,0.08); 
+            padding: 25px; 
         }
         .header {
             text-align: center;
             margin-bottom: 25px;
         }
         h1 {
-            font-size: 2em; /* Smaller font */
+            font-size: 2em; 
             color: var(--accent);
             margin: 0;
             font-weight: 700;
@@ -53,30 +53,30 @@
             border-left: 4px solid var(--accent);
         }
         .question {
-            font-size: 1.25em; /* Smaller font */
+            font-size: 1.25em;
             font-weight: 600;
             margin-bottom: 20px;
             padding: 15px;
-            background: #f8fafc; /* Very light grey */
+            background: #f8fafc;
             border: 1px solid #e2e8f0;
             border-radius: 12px;
         }
         .options {
             display: grid;
-            gap: 12px; /* Tighter gap */
+            gap: 12px;
             margin-bottom: 20px;
         }
         button {
             background: #ffffff;
             color: var(--secondary);
             border: 2px solid #e2e8f0;
-            padding: 15px 20px; /* Smaller padding */
-            border-radius: 12px; /* Smaller radius */
-            font-size: 1.05em; /* Smaller font */
+            padding: 15px 20px; 
+            border-radius: 12px; 
+            font-size: 1.05em;
             font-weight: 500;
             cursor: pointer;
             transition: all 0.2s ease;
-            text-align: left; /* Align text to left for better readability */
+            text-align: left; 
         }
         button:hover:not(:disabled) {
             background: var(--accent-light);
@@ -189,7 +189,7 @@
         #back-btn:hover {
             background: #a0aec0;
         }
-        /* New button for continuing when wrong in lesson mode */
+
         #continue-btn {
             display: none;
             margin: 15px auto 0;
@@ -278,7 +278,6 @@
             questions = [];
             isSimulation = false;
             try {
-                // Modifica il bottone per mostrare che sta caricando (opzionale)
                 const res = await fetch(fileUrl);
                 
                 if (!res.ok) {
@@ -287,7 +286,6 @@
                     return;
                 }
                 
-                // Usiamo direttamente res.json() che gestisce meglio la codifica (UTF-8) di GitHub
                 questions = await res.json();
                 
                 if (!questions || !Array.isArray(questions) || questions.length === 0) {
@@ -414,7 +412,6 @@
                 feedbackDiv.style.color = "var(--success)";
                 feedbackDiv.style.background = "rgba(56,161,105,0.1)";
 
-                // Se è corretta (o simulazione), vai avanti col timer normale
                 const tempoAttesa = isSimulation ? 1500 : 3000;
                 setTimeout(() => {
                     i++;
@@ -427,13 +424,11 @@
                 feedbackDiv.style.background = "rgba(229,62,62,0.1)";
 
                 if (isSimulation) {
-                    // Nella simulazione vai avanti in automatico comunque
                     setTimeout(() => {
                         i++;
                         showQuestion();
                     }, 1500);
                 } else {
-                    // Nelle lezioni (se sbagli), NON vai avanti. Mostri il pulsante per continuare
                     continueBtn.style.display = 'block';
                 }
             }
