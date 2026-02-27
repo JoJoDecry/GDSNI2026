@@ -274,37 +274,38 @@
         const continueBtn = document.getElementById('continue-btn');
         const feedbackDiv = document.getElementById('feedback');
 
-        async function caricaQuiz(fileUrl) {
+               async function caricaQuiz(fileUrl) {
             questions = [];
             isSimulation = false;
             try {
+                // Modifica il bottone per mostrare che sta caricando (opzionale)
                 const res = await fetch(fileUrl);
+                
                 if (!res.ok) {
                     alert("⚠️ File " + fileUrl + " non trovato. Assicurati di averlo creato e caricato su GitHub!");
                     tornaAlMenu();
                     return;
                 }
-                const testText = await res.text();
-                if (!testText || testText.trim() === "") {
-                    alert("⚠️ Il file " + fileUrl + " esiste ma è vuoto!");
+                
+                // Usiamo direttamente res.json() che gestisce meglio la codifica (UTF-8) di GitHub
+                questions = await res.json();
+                
+                if (!questions || !Array.isArray(questions) || questions.length === 0) {
+                    alert("⚠️ Il file " + fileUrl + " esiste ma è vuoto o non contiene un array valido di domande.");
                     tornaAlMenu();
                     return;
                 }
-                questions = JSON.parse(testText);
-                if (!Array.isArray(questions) || questions.length === 0) {
-                    alert("⚠️ Il file " + fileUrl + " non contiene un array valido di domande.");
-                    tornaAlMenu();
-                    return;
-                }
+                
                 questions.sort(() => Math.random() - 0.5);
                 avviaQuiz();
+                
             } catch (e) {
                 console.error("Errore dettagliato:", e);
                 alert("⚠️ Impossibile caricare " + fileUrl + ". Potrebbe esserci un errore di sintassi nel file JSON.");
                 tornaAlMenu();
             }
         }
-
+        
         async function generaEsameCasuale() {
             let tutteLeDomande = [];
             let caricati = 0;
