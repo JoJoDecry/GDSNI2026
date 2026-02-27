@@ -1,0 +1,332 @@
+[
+  {
+    "question": "Quali sono i tre principali attori della sicurezza secondo il modello generale presentato?",
+    "options": [
+      "A. Sicurezza Pubblica, Sicurezza Privata, Sicurezza Aziendale",
+      "B. Polizia, Carabinieri, Guardia di Finanza",
+      "C. Security, Safety, Cyber Security",
+      "D. Rischio, Minaccia, Vulnerabilità"
+    ],
+    "answer": "A. Sicurezza Pubblica, Sicurezza Privata, Sicurezza Aziendale",
+    "explanation": "La sicurezza è svolta da attori diversi: la Sicurezza Pubblica (FF.OO, soccorso), la Sicurezza Privata (vigilanza e investigazione) e la Sicurezza Aziendale."
+  },
+  {
+    "question": "Chi è l'ente istituito nel 2021 in Italia che definisce le strategie nazionali di cybersicurezza?",
+    "options": [
+      "A. CNAIPIC",
+      "B. ACN (Agenzia per la Cybersicurezza Nazionale)",
+      "C. CSIRT Italia",
+      "D. Comparto Intelligence (DIS, AISE, AISI)"
+    ],
+    "answer": "B. ACN (Agenzia per la Cybersicurezza Nazionale)",
+    "explanation": "L'ACN (Agenzia per la Cybersicurezza Nazionale), istituita nel 2021, definisce le strategie nazionali, coordina le misure di sicurezza e gestisce gli incidenti a livello governativo."
+  },
+  {
+    "question": "Secondo il T.U.L.P.S. (art. 133 e 134), di cosa si occupa principalmente la vigilanza privata?",
+    "options": [
+      "A. Investigazione sui reati informatici complessi",
+      "B. Prevenzione e tutela di persone e beni, integrando la sicurezza pubblica",
+      "C. Gestione delle emergenze e calamità naturali",
+      "D. Raccolta lecita di informazioni per la tutela dei diritti"
+    ],
+    "answer": "B. Prevenzione e tutela di persone e beni, integrando la sicurezza pubblica",
+    "explanation": "La vigilanza privata svolge attività di prevenzione e tutela di persone e beni, integrando l’azione della sicurezza pubblica nel controllo del territorio e nella protezione degli asset aziendali."
+  },
+  {
+    "question": "Qual è la differenza fondamentale tra 'Safety' e 'Security' in ambito aziendale?",
+    "options": [
+      "A. La Safety protegge i dati informatici, la Security protegge gli edifici fisici.",
+      "B. La Safety previene eventi accidentali (salute psico-fisica), la Security previene eventi da azioni in prevalenza illecite.",
+      "C. La Safety riguarda la vigilanza privata, la Security riguarda le Forze dell'Ordine.",
+      "D. Non c'è differenza, sono sinonimi."
+    ],
+    "answer": "B. La Safety previene eventi accidentali (salute psico-fisica), la Security previene eventi da azioni in prevalenza illecite.",
+    "explanation": "La Safety è volta a prevenire eventi accidentali a tutela della salute nei luoghi di lavoro; la Security previene eventi derivanti da azioni illecite che espongono persone e beni a danni."
+  },
+  {
+    "question": "Quale articolo del D.lgs. 81/08 sancisce l'obbligo della valutazione del rischio?",
+    "options": [
+      "A. Art. 36",
+      "B. Art. 37",
+      "C. Art. 28",
+      "D. Art. 231"
+    ],
+    "answer": "C. Art. 28",
+    "explanation": "Nel D.lgs. 81/08, l'Art. 28 è quello che impone al Datore di Lavoro l'obbligo della valutazione del rischio."
+  },
+  {
+    "question": "Quale norma ISO fornisce i principi e le linee guida per la gestione del rischio all'interno delle organizzazioni?",
+    "options": [
+      "A. ISO 27000",
+      "B. ISO 28000",
+      "C. ISO 45000",
+      "D. ISO 31000"
+    ],
+    "answer": "D. ISO 31000",
+    "explanation": "La norma ISO 31000 fornisce principi e linee guida per la gestione del rischio (Risk Management) all'interno delle organizzazioni."
+  },
+  {
+    "question": "Qual è l'obiettivo principale della Corporate Security?",
+    "options": [
+      "A. Aumentare le vendite e i profitti dell'azienda",
+      "B. Conoscere il rischio per scegliere le migliori contromisure",
+      "C. Sostituire le Forze dell'Ordine all'interno dell'azienda",
+      "D. Gestire esclusivamente gli infortuni sul lavoro"
+    ],
+    "answer": "B. Conoscere il rischio per scegliere le migliori contromisure",
+    "explanation": "L’obiettivo della security aziendale è conoscere il profilo di rischio da fronteggiare per prendere decisioni relativamente al piano di mitigazione e scegliere le migliori contromisure."
+  },
+  {
+    "question": "Quali sono le 3 fasi principali del Sistema di gestione della protezione aziendale (security)?",
+    "options": [
+      "A. Prevenzione, Protezione, Trasferimento",
+      "B. Identificazione delle minacce, Valutazione dei rischi, Adozione di misure di prevenzione e mitigazione",
+      "C. Analisi del contesto, Monitoraggio, Revisione",
+      "D. Safety, Security, Cyber Security"
+    ],
+    "answer": "B. Identificazione delle minacce, Valutazione dei rischi, Adozione di misure di prevenzione e mitigazione",
+    "explanation": "Le 3 fasi principali sono: 1) Identificazione delle minacce, 2) Valutazione dei rischi (probabilità e impatto), 3) Adozione di misure di prevenzione e mitigazione."
+  },
+  {
+    "question": "Nel processo di evoluzione della funzione di security, come si caratterizza la fase 'CASTLE BASED'?",
+    "options": [
+      "A. Focus su beni intangibili e continuità del business",
+      "B. Attenzione a tutti i rischi e le minacce (Enterprise Risk Management)",
+      "C. Focus su patrimonio tangibile/fisico, sicurezza perimetrale e operatività reattiva",
+      "D. Cooperazione attiva con terze parti e fornitori"
+    ],
+    "answer": "C. Focus su patrimonio tangibile/fisico, sicurezza perimetrale e operatività reattiva",
+    "explanation": "La fase 'Castle Based' ha un focus orientato al patrimonio fisico, alla sicurezza perimetrale (il 'castello') con una operatività basata prevalentemente sulla reazione (reaction)."
+  },
+  {
+    "question": "Quale framework del 1992 (e aggiornato in seguito) fornisce un approccio strutturato per il controllo interno e l'ERM?",
+    "options": [
+      "A. ISO 31000",
+      "B. CO.SO. Framework",
+      "C. TAPA Standard",
+      "D. PDCA (Ciclo di Deming)"
+    ],
+    "answer": "B. CO.SO. Framework",
+    "explanation": "Il COSO (Committee of Sponsoring Organization) Framework fornisce un modello di riferimento strutturato per il controllo interno e per l'Enterprise Risk Management (ERM)."
+  },
+  {
+    "question": "Come viene definito il 'Rischio' secondo la norma UNI ISO 31000?",
+    "options": [
+      "A. La probabilità che accada un evento negativo",
+      "B. L'effetto dell’incertezza sugli obiettivi",
+      "C. La somma della vulnerabilità e della minaccia",
+      "D. Qualunque conseguenza negativa derivante da un evento"
+    ],
+    "answer": "B. L'effetto dell’incertezza sugli obiettivi",
+    "explanation": "Secondo la norma UNI ISO 31000, il rischio è definito in modo molto specifico come l'effetto dell'incertezza sugli obiettivi."
+  },
+  {
+    "question": "Quale tra i seguenti è un esempio di rischio 'Compliance'?",
+    "options": [
+      "A. Violazione della normativa sulla protezione dei dati personali (GDPR)",
+      "B. Interruzione della supply chain",
+      "C. Volatilità dei prezzi delle materie prime",
+      "D. Perdita di quote di mercato"
+    ],
+    "answer": "A. Violazione della normativa sulla protezione dei dati personali (GDPR)",
+    "explanation": "I rischi di Compliance riguardano il mancato rispetto di leggi e regolamenti, come il GDPR, il D.Lgs 231/01 o le normative ESG."
+  },
+  {
+    "question": "Nella formula per calcolare il rischio (Rischio = P x I), di cosa è funzione la Probabilità (P)?",
+    "options": [
+      "A. Danno diretto e danno indiretto",
+      "B. Prevenzione e Protezione",
+      "C. Vulnerabilità e Frequenza di accadimento",
+      "D. Gravità e Magnitudo"
+    ],
+    "answer": "C. Vulnerabilità e Frequenza di accadimento",
+    "explanation": "La probabilità (P) di accadimento di un evento dannoso è funzione della Vulnerabilità (V) del sistema e della Frequenza (F) della minaccia."
+  },
+  {
+    "question": "Qual è la differenza tra l'attività di Prevenzione e quella di Protezione?",
+    "options": [
+      "A. La prevenzione riduce l'impatto, la protezione riduce la probabilità.",
+      "B. La prevenzione riduce la probabilità, la protezione riduce l'impatto (gravità).",
+      "C. Sono esattamente la stessa cosa.",
+      "D. La prevenzione si usa per la Safety, la protezione per la Security."
+    ],
+    "answer": "B. La prevenzione riduce la probabilità, la protezione riduce l'impatto (gravità).",
+    "explanation": "La prevenzione agisce per ridurre la probabilità che l'evento accada; la protezione interviene per ridurre la gravità delle conseguenze (impatto) una volta che l'evento si è verificato."
+  },
+  {
+    "question": "Nel processo ERM applicato alla Security, in quale fase si effettuano l'Identificazione delle minacce e la Risk Evaluation?",
+    "options": [
+      "A. 1 - Comunicazione e consultazione",
+      "B. 2 - Analisi del contesto",
+      "C. 3 - Analisi dei rischi (Risk Assessment)",
+      "D. 4 - Trattamento del rischio"
+    ],
+    "answer": "C. 3 - Analisi dei rischi (Risk Assessment)",
+    "explanation": "La fase di Analisi dei Rischi (o Risk Assessment) comprende l'identificazione delle minacce, l'analisi e la valutazione vera e propria dei rischi (Risk Evaluation)."
+  },
+  {
+    "question": "L'analisi delle caratteristiche politiche, geografiche e socio-economiche del territorio circostante un'azienda fa parte dell'analisi del:",
+    "options": [
+      "A. Contesto interno",
+      "B. Risk treatment",
+      "C. Contesto esterno",
+      "D. Contesto logico"
+    ],
+    "answer": "C. Contesto esterno",
+    "explanation": "L'analisi del contesto esterno raccoglie informazioni su aspetti geografici, socio-economici, politici, infrastrutturali e di sicurezza del territorio che circonda l'azienda."
+  },
+  {
+    "question": "Quali sono tre opzioni valide per le 'politiche di gestione' nel Trattamento del Rischio (Risk Treatment)?",
+    "options": [
+      "A. Prevenzione, Protezione, Trasferimento",
+      "B. Eliminazione, Ignoramento, Occultamento",
+      "C. Sicurezza fisica, Sicurezza logica, Sicurezza attiva",
+      "D. Safety, Security, Cyber Security"
+    ],
+    "answer": "A. Prevenzione, Protezione, Trasferimento",
+    "explanation": "Nel Risk Treatment, l'azienda può decidere di gestire il rischio tramite azioni di Prevenzione, di Protezione, oppure tramite Trasferimento (es. assicurazioni) o Ritenzione."
+  },
+  {
+    "question": "Che cosa si intende per 'Rischio Intrinseco'?",
+    "options": [
+      "A. Il rischio residuo dopo aver applicato le contromisure",
+      "B. Il livello di rischio ottenuto a prescindere dalla mitigazione operata dal sistema di controllo",
+      "C. Il rischio che l'azienda decide di trasferire all'assicurazione",
+      "D. Il rischio inaccettabile che comporta la chiusura dell'azienda"
+    ],
+    "answer": "B. Il livello di rischio ottenuto a prescindere dalla mitigazione operata dal sistema di controllo",
+    "explanation": "Il Rischio Intrinseco è il rischio 'grezzo', calcolato prima dell'applicazione di qualsiasi misura di mitigazione o controllo."
+  },
+  {
+    "question": "Cosa indica la sigla 'CAPEX' nell'ambito degli investimenti di un piano di security?",
+    "options": [
+      "A. Costi operativi ricorrenti (es. personale di vigilanza)",
+      "B. Costi per la formazione e l'awareness",
+      "C. Capital Expenditure: investimenti strutturali e durevoli (es. sistemi di videosorveglianza)",
+      "D. Costi di manutenzione ordinaria"
+    ],
+    "answer": "C. Capital Expenditure: investimenti strutturali e durevoli (es. sistemi di videosorveglianza)",
+    "explanation": "I CAPEX (Capital Expenditure) sono investimenti iniziali per infrastrutture fisiche, tecnologie e sistemi durevoli. Si distinguono dagli OPEX che sono i costi operativi."
+  },
+  {
+    "question": "Un impianto di allarme e videosorveglianza (TVCC) che rileva un'intrusione e allerta una guardia giurata è un esempio di misura di sicurezza:",
+    "options": [
+      "A. Passiva",
+      "B. Attiva",
+      "C. Umano-Metodologica",
+      "D. Finanziaria"
+    ],
+    "answer": "B. Attiva",
+    "explanation": "La sicurezza attiva comprende misure (come sistemi di allarme e telecamere) che servono a rilevare, analizzare situazioni e attivare una risposta o intervento umano."
+  },
+  {
+    "question": "Una porta blindata o una recinzione perimetrale alta 2 metri sono esempi di sicurezza:",
+    "options": [
+      "A. Attiva",
+      "B. Logica",
+      "C. Passiva",
+      "D. Preventiva indiretta"
+    ],
+    "answer": "C. Passiva",
+    "explanation": "Le misure di sicurezza passiva sono ostacoli fisici e strutturali progettati per resistere alle intrusioni e ritardare l'evento criminoso il più possibile."
+  },
+  {
+    "question": "L'acronimo OSINT (Open Source Intelligence) a quale fase del processo si ricollega principalmente?",
+    "options": [
+      "A. All'acquisto di telecamere TVCC",
+      "B. Alla raccolta di informazioni sull'ambiente per l'analisi del contesto esterno",
+      "C. Alla valutazione dei costi OPEX",
+      "D. Alla definizione della Cultura del rischio individuale"
+    ],
+    "answer": "B. Alla raccolta di informazioni sull'ambiente per l'analisi del contesto esterno",
+    "explanation": "L'OSINT viene utilizzata nell'analisi del contesto esterno per raccogliere dati geopolitici, geografici e sulla sicurezza del territorio da fonti aperte pubbliche."
+  },
+  {
+    "question": "Quale tra questi descrive meglio il Modello di Risk Management 'Anticipatorio' (AMR)?",
+    "options": [
+      "A. È basato su regole fisse e profili di rischio noti",
+      "B. Affronta l'incertezza autentica, i segnali deboli e le discontinuità basandosi sui Futures Studies",
+      "C. Utilizza solo tecniche prevalentemente quantitative",
+      "D. Considera l'organizzazione come un sistema chiuso e semplice"
+    ],
+    "answer": "B. Affronta l'incertezza autentica, i segnali deboli e le discontinuità basandosi sui Futures Studies",
+    "explanation": "A differenza del modello Reattivo (RMR), l'Anticipatorio (AMR) si concentra sull'incertezza vera, gli eventi inimmaginabili ('cigni neri') e i trend futuri per costruire resilienza."
+  },
+  {
+    "question": "In un piano di assegnazione dei colori alle aree critiche di uno stabilimento, una 'ZONA BIANCA' solitamente prevede:",
+    "options": [
+      "A. Accesso consentito solo con badge e porte interbloccate",
+      "B. Recinzione in rete metallica alta 2 metri",
+      "C. Nessun intervento di tipo attivo o passivo e accesso libero",
+      "D. Controllo del territorio con cavo microfonico"
+    ],
+    "answer": "C. Nessun intervento di tipo attivo o passivo e accesso libero",
+    "explanation": "Le 'zone bianche' sono le aree a bassissima criticità dove l'accesso rimane libero e non sono previste specifiche barriere fisiche o elettroniche."
+  },
+  {
+    "question": "Nel contesto della gestione dei rischi, cos'è la 'Cultura del rischio'?",
+    "options": [
+      "A. Il budget annuale destinato alla sicurezza aziendale",
+      "B. Un documento normativo imposto dalla Comunità Europea",
+      "C. L'insieme di valori, comportamenti e pratiche condivise che influenzano il modo di gestire le incertezze in azienda",
+      "D. L'indice di probabilità che si verifichi un attacco hacker"
+    ],
+    "answer": "C. L'insieme di valori, comportamenti e pratiche condivise che influenzano il modo di gestire le incertezze in azienda",
+    "explanation": "La cultura del rischio (Risk Culture) è l'attitudine diffusa nell'organizzazione, promossa dai vertici, che favorisce consapevolezza e proattività verso le incertezze e le minacce."
+  },
+  {
+    "question": "Quale tra le seguenti è una criticità tipica nella gestione dei rischi aziendali?",
+    "options": [
+      "A. Eccesiva integrazione tra i dipartimenti aziendali",
+      "B. Identificazione completa di tutte le minacce",
+      "C. Approccio puramente reattivo e organizzazione in compartimenti stagni ('silos')",
+      "D. Abbondanza di risorse umane ed economiche"
+    ],
+    "answer": "C. Approccio puramente reattivo e organizzazione in compartimenti stagni ('silos')",
+    "explanation": "Lavorare a 'silos' (senza condivisione di informazioni) e avere un approccio reattivo (aspettare l'evento per reagire) sono tra i principali ostacoli a una gestione efficace dei rischi."
+  },
+  {
+    "question": "A livello di sicurezza aziendale globale, le 'Procedure', la 'Formazione' e la 'Consapevolezza' rientrano in quale categoria di contromisure?",
+    "options": [
+      "A. Sicurezza Attiva",
+      "B. Sicurezza Passiva",
+      "C. Sicurezza Logica",
+      "D. Sicurezza Umano-Metodologica"
+    ],
+    "answer": "D. Sicurezza Umano-Metodologica",
+    "explanation": "La sicurezza Umano-Metodologica comprende l'insieme di persone, politiche, procedure e formazione atte a regolamentare i comportamenti per prevenire incidenti."
+  },
+  {
+    "question": "La 'BIA' citata tra le tecniche di valutazione del rischio, per cosa sta?",
+    "options": [
+      "A. Baseline Investigation Authority",
+      "B. Business Impact Analysis",
+      "C. Basic Information Access",
+      "D. Behavioural Incident Assessment"
+    ],
+    "answer": "B. Business Impact Analysis",
+    "explanation": "La BIA (Business Impact Analysis) è uno degli strumenti e tecniche menzionati dalla norma UNI 31010 per la valutazione dell'impatto di eventi avversi sui processi aziendali."
+  },
+  {
+    "question": "Cosa valuta la 'Magnitudo' (M) delle conseguenze di un evento dannoso?",
+    "options": [
+      "A. Solo l'impatto economico diretto sulle assicurazioni",
+      "B. È funzione del numero di soggetti coinvolti e del livello di danno ad essi provocato",
+      "C. La probabilità che un evento si ripeta l'anno successivo",
+      "D. Il grado di efficienza delle tecnologie difensive"
+    ],
+    "answer": "B. È funzione del numero di soggetti coinvolti e del livello di danno ad essi provocato",
+    "explanation": "La magnitudo (o gravità) delle conseguenze è calcolata considerando quanto è ampio il danno e quante persone, beni o asset ne sono stati colpiti."
+  },
+  {
+    "question": "Nell'evoluzione della funzione di security, la fase 'BUSINESS ORIENTED' si distingue dalla precedente perché:",
+    "options": [
+      "A. Considera la security solo come un costo da tagliare",
+      "B. Presta attenzione solo alla sicurezza perimetrale",
+      "C. Estende l'attenzione ai beni intangibili e coopera attivamente con le funzioni di business",
+      "D. Ignora la compliance normativa per concentrarsi sulle vendite"
+    ],
+    "answer": "C. Estende l'attenzione ai beni intangibili e coopera attivamente con le funzioni di business",
+    "explanation": "Nella fase Business Oriented la security smette di difendere solo il 'castello' fisico e inizia a proteggere asset intangibili, supportando la continuità e cooperando con il business."
+  }
+]
