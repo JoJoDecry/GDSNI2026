@@ -68,12 +68,12 @@
   {
     "question": "Qual è la formula sintetica più utilizzata per rappresentare il rischio?",
     "options": [
-      "A. Il rischio corrisponde al Contesto moltiplicato per la Vulnerabilità del sistema esposto",
-      "B. Il rischio è calcolato come l'Impatto dell'evento diviso per la Probabilità di accadimento",
-      "C. Il rischio è comunemente definito come la Probabilità moltiplicata per l'Impatto dell’evento",
-      "D. Il rischio si ottiene calcolando il prodotto tra l'Evento e la Conseguenza senza probabilità"
+      "A. Rischio = Contesto × Vulnerabilità del sistema esposto",
+      "B. Rischio = Impatto ÷ Probabilità di accadimento dell’evento",
+      "C. Rischio = Probabilità × Impatto dell’evento considerato",
+      "D. Rischio = Evento × Conseguenza senza riferimento alla probabilità"
     ],
-    "answer": "C. Il rischio è comunemente definito come la Probabilità moltiplicata per l'Impatto dell’evento",
+    "answer": "C. Rischio = Probabilità × Impatto",
     "explanation": "Il rischio viene spesso calcolato come prodotto tra la probabilità che un evento accada e l’impatto che tale evento avrebbe sugli obiettivi."
   },
   {
