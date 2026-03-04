@@ -12,10 +12,9 @@
   {
     "question": "In quale posizione si colloca il bisogno di sicurezza nella piramide di Maslow?",
     "options": [
-      "A. Nel primissimo livello, affiancato ai bisogni fisiologici di base dell’organismo",
+      "A. Nel primo livello, affiancato ai bisogni fisiologici di base dell’organismo",
       "B. Nel secondo livello, situato subito al di sopra dei bisogni fisiologici fondamentali",
-      "C. Nel terzo livello, strettamente legato al senso di appartenenza e alle relazioni",
-      "D. Nell'ultimo livello in alto, profondamente connesso all'autorealizzazione personale"
+      "C. Nel terzo livello, strettamente legato al senso di appartenenza e alle relazioni"
     ],
     "answer": "B. Nel secondo livello, situato subito al di sopra dei bisogni fisiologici fondamentali",
     "explanation": "Il bisogno di sicurezza è al secondo livello, subito dopo i bisogni fisiologici, e riguarda stabilità, prevedibilità, protezione e riduzione di ansia e paura."
@@ -25,8 +24,7 @@
     "options": [
       "A. La cyber insecurity, caratterizzata da attacchi informatici massicci a reti critiche",
       "B. La misinformation, ampiamente diffusa tramite media tradizionali e piattaforme web",
-      "C. La geoeconomic confrontation, che vede opporsi grandi potenze e blocchi concorrenti",
-      "D. Gli extreme weather events, che colpiscono ripetutamente territori e infrastrutture"
+      "C. La geoeconomic confrontation, che vede opporsi grandi potenze e blocchi concorrenti"
     ],
     "answer": "C. La geoeconomic confrontation, che vede opporsi grandi potenze e blocchi concorrenti",
     "explanation": "La geoeconomic confrontation presenta la percentuale più alta tra i rischi indicati come potenziali cause di crisi globale su scala 2025."
@@ -36,8 +34,7 @@
     "options": [
       "A. La cyber insecurity, a causa degli impatti prolungati su reti e infrastrutture critiche",
       "B. Gli extreme weather events, per gli effetti molto gravi e diffusi su ambiente e società",
-      "C. L'economic downturn, fortemente legato a recessioni prolungate e gravi crisi dei mercati",
-      "D. Lo state-based armed conflict, capace di generare importanti ripercussioni su scala globale"
+      "C. L'economic downturn, fortemente legato a recessioni prolungate e gravi crisi dei mercati"
     ],
     "answer": "B. Gli extreme weather events, per gli effetti molto gravi e diffusi su ambiente e società",
     "explanation": "Gli eventi meteorologici estremi sono valutati come il rischio con maggiore severità nel lungo termine, per impatti diffusi su ambiente, società ed economia."
@@ -47,8 +44,7 @@
     "options": [
       "A. Un evento già verificato nel passato che ha prodotto un danno diretto oppure indiretto",
       "B. Il livello complessivo di impatto economico o sociale generato da un evento dannoso",
-      "C. Un agente o evento che può sfruttare una vulnerabilità oppure attivare un pericolo",
-      "D. La pura probabilità statistica che si verifichi un determinato incidente nel tempo"
+      "C. Un agente o evento che può sfruttare una vulnerabilità oppure attivare un pericolo"
     ],
     "answer": "C. Un agente o evento che può sfruttare una vulnerabilità oppure attivare un pericolo",
     "explanation": "La minaccia è un elemento, intenzionale o accidentale, capace di sfruttare vulnerabilità o attivare un pericolo, dando origine a possibili danni."
@@ -58,8 +54,7 @@
     "options": [
       "A. Un difetto esclusivamente tecnologico presente in componenti hardware o moduli software",
       "B. Una caratteristica intrinseca che lo rende suscettibile a determinate situazioni di rischio",
-      "C. Un indicatore prettamente economico utilizzato per stimare e calcolare la perdita potenziale",
-      "D. Un sinonimo esatto del termine \"rischio operativo\" impiegato di frequente in ambito aziendale"
+      "C. Un indicatore prettamente economico utilizzato per stimare e calcolare la perdita potenziale"
     ],
     "answer": "B. Una caratteristica intrinseca che lo rende suscettibile a determinate situazioni di rischio",
     "explanation": "La vulnerabilità è la caratteristica che rende un componente o un sistema suscettibile a certi eventi, e può essere tecnologica, organizzativa o umana."
@@ -67,10 +62,9 @@
   {
     "question": "Qual è la formula sintetica più utilizzata per rappresentare il rischio?",
     "options": [
-      "A. Rischio = Contesto × Vulnerabilità del sistema esposto",
-      "B. Rischio = Impatto ÷ Probabilità di accadimento dell’evento",
-      "C. Rischio = Probabilità × Impatto dell’evento considerato",
-      "D. Rischio = Evento × Conseguenza senza riferimento alla probabilità"
+      "A. Rischio = Contesto × Vulnerabilità",
+      "B. Rischio = Impatto ÷ Probabilità",
+      "C. Rischio = Probabilità × Impatto"
     ],
     "answer": "C. Rischio = Probabilità × Impatto",
     "explanation": "Il rischio viene spesso calcolato come prodotto tra la probabilità che un evento accada e l’impatto che tale evento avrebbe sugli obiettivi."
@@ -80,8 +74,7 @@
     "options": [
       "A. Un evento improvviso che possiede sempre una portata catastrofica e risvolti irreversibili",
       "B. Un evento o una situazione specifica che può portare a interruzione, perdita, emergenza o crisi",
-      "C. Un evento esclusivamente di tipo volontario causato dall’uomo con una chiara intenzionalità",
-      "D. Un evento prettamente di origine naturale e del tutto incontrollabile, come terremoti o alluvioni"
+      "C. Un evento esclusivamente di tipo volontario causato dall’uomo con una chiara intenzionalità"
     ],
     "answer": "B. Un evento o una situazione specifica che può portare a interruzione, perdita, emergenza o crisi",
     "explanation": "Un incidente è un evento o una situazione che può provocare interruzioni, perdite, emergenze o crisi, e può essere di natura semplice o complessa."
@@ -91,8 +84,7 @@
     "options": [
       "A. Qualsiasi situazione di pericolo prolungato percepito in modo molto diffuso dalla popolazione",
       "B. Un evento critico che può comunque essere gestito facilmente senza attivare risorse straordinarie",
-      "C. Un evento calamitoso che richiede l'impiego immediato di risorse di soccorso dedicate",
-      "D. Un evento che riguarda esclusivamente gravi incidenti di massa con numerose vittime umane"
+      "C. Un evento calamitoso che richiede l'impiego immediato di risorse di soccorso dedicate"
     ],
     "answer": "C. Un evento calamitoso che richiede l'impiego immediato di risorse di soccorso dedicate",
     "explanation": "L’emergenza è un evento calamitoso che richiede l’attivazione di risorse di soccorso e determina uno squilibrio tra bisogni e risorse disponibili."
@@ -102,8 +94,7 @@
     "options": [
       "A. È sempre e soltanto un disastro di natura esclusivamente economica, politica e finanziaria",
       "B. È un evento di scala molto ridotta e che risulta facilmente gestibile dalle autorità locali",
-      "C. Richiede l’intervento centrale dello Stato e sconvolge infrastrutture e organizzazioni sociali",
-      "D. Riguarda esclusivamente eventi tecnologici complessi, guasti critici e incidenti industriali"
+      "C. Richiede l’intervento centrale dello Stato e sconvolge infrastrutture e organizzazioni sociali"
     ],
     "answer": "C. Richiede l’intervento centrale dello Stato e sconvolge infrastrutture e organizzazioni sociali",
     "explanation": "La catastrofe è un evento talmente intenso e diffuso da richiedere il coinvolgimento centrale dello Stato e da compromettere infrastrutture, comunicazioni e organizzazioni."
@@ -113,8 +104,7 @@
     "options": [
       "A. Un evento avverso eccezionale che comporta unicamente gravi perdite economiche e patrimoniali",
       "B. Una grave perturbazione del regolare funzionamento di una comunità dovuta a eventi pericolosi",
-      "C. Una catastrofe di natura esclusivamente ambientale che colpisce territori vasti e disabitati",
-      "D. Un incidente critico ma ancora facilmente gestibile utilizzando risorse tecniche di tipo ordinario"
+      "C. Una catastrofe di natura esclusivamente ambientale che colpisce territori vasti e disabitati"
     ],
     "answer": "B. Una grave perturbazione del regolare funzionamento di una comunità dovuta a eventi pericolosi",
     "explanation": "Il disastro è una grave perturbazione del funzionamento di una comunità o società, causata dall’interazione tra pericoli, esposizione, vulnerabilità e capacità, con perdite umane, materiali ed economiche."
@@ -124,8 +114,7 @@
     "options": [
       "A. Sulla specifica area geografica colpita duramente dall’evento e sull'ampiezza della sua estensione",
       "B. Sulla chiara natura d'origine del pericolo: di tipo puramente naturale, tecnologico oppure combinato",
-      "C. Esclusivamente sull'elevato numero complessivo di vittime, di feriti e di sfollati provocati dall’evento",
-      "D. Sulla durata temporale complessiva dell’evento avverso e sulla rapidità estrema con cui si manifesta"
+      "C. Esclusivamente sull'elevato numero complessivo di vittime, di feriti e di sfollati provocati dall’evento"
     ],
     "answer": "B. Sulla chiara natura d'origine del pericolo: di tipo puramente naturale, tecnologico oppure combinato",
     "explanation": "La classificazione distingue disastri dovuti a forze naturali, a cause tecnologiche/organizzative e a eventi naturali che innescano disastri tecnologici."
@@ -135,8 +124,7 @@
     "options": [
       "A. È un evento già completamente degenerato in un vero e proprio disastro irreversibile su larga scala",
       "B. È una situazione ormai fortemente compromessa in cui non è più possibile alcun tipo di intervento",
-      "C. È un momento di grave pressione per il sistema, ma che lascia ancora spazio per decisioni strategiche",
-      "D. È una semplice e comune emergenza operativa caratterizzata da impatti transitori e facilmente gestibili"
+      "C. È un momento di grave pressione per il sistema, ma che lascia ancora spazio per decisioni strategiche"
     ],
     "answer": "C. È un momento di grave pressione per il sistema, ma che lascia ancora spazio per decisioni strategiche",
     "explanation": "La crisi è una situazione anomala che minaccia seriamente un’organizzazione ma lascia ancora margine per decisioni strategiche, adattive e tempestive per evitare il peggioramento."
@@ -146,8 +134,7 @@
     "options": [
       "A. Un’incertezza metodologica dovuta principalmente alla grave mancanza di dati e informazioni disponibili",
       "B. Un’incertezza operativa che può essere facilmente azzerata procedendo con ulteriori ricerche e misurazioni",
-      "C. La variabilità intrinseca e naturale di un fenomeno, non riducibile neppure raccogliendo ulteriori dati",
-      "D. Un fenomeno puramente statistico e matematico che risulta strettamente limitato ai soli mercati finanziari"
+      "C. La variabilità intrinseca e naturale di un fenomeno, non riducibile neppure raccogliendo ulteriori dati"
     ],
     "answer": "C. La variabilità intrinseca e naturale di un fenomeno, non riducibile neppure raccogliendo ulteriori dati",
     "explanation": "L’incertezza aleatoria dipende dalla variabilità intrinseca del fenomeno (come il lancio di un dado) e non si riduce nemmeno aumentando le informazioni disponibili."
@@ -157,8 +144,7 @@
     "options": [
       "A. Una variabilità intrinseca e insita nel fenomeno stesso, che l'uomo non può in alcun modo limitare o ridurre",
       "B. Un fenomeno stocastico del tutto indipendente dall'attuale livello di conoscenza o dalla qualità dei dati",
-      "C. Una mancanza di conoscenza specifica che si può ridurre raccogliendo più dati e utilizzando modelli migliori",
-      "D. Una problematica di natura puramente tecnica legata esclusivamente a gravi e continui errori di misurazione"
+      "C. Una mancanza di conoscenza specifica che si può ridurre raccogliendo più dati e utilizzando modelli migliori"
     ],
     "answer": "C. Una mancanza di conoscenza specifica che si può ridurre raccogliendo più dati e utilizzando modelli migliori",
     "explanation": "L’incertezza epistemica deriva da conoscenza insufficiente o inaccurata e può essere ridotta raccogliendo più dati, raffinando i modelli e migliorando le tecniche di analisi."
@@ -168,8 +154,7 @@
     "options": [
       "A. L’evento dannoso vero e proprio, considerato in modo del tutto indipendente rispetto al contesto aziendale",
       "B. L’effetto complessivo che la componente di incertezza produce direttamente sugli obiettivi dell’organizzazione",
-      "C. Soltanto la probabilità prettamente statistica che un determinato evento negativo e pericoloso possa verificarsi",
-      "D. La mera somma algebrica di tutti i possibili e catastrofici impatti economici legati all'accadimento di un evento"
+      "C. Soltanto la probabilità prettamente statistica che un determinato evento negativo e pericoloso possa verificarsi"
     ],
     "answer": "B. L’effetto complessivo che la componente di incertezza produce direttamente sugli obiettivi dell’organizzazione",
     "explanation": "Il rischio è l’effetto dell’incertezza sugli obiettivi, cioè il modo in cui l’incertezza influisce sul raggiungimento di ciò che l’organizzazione si propone di ottenere."
@@ -179,8 +164,7 @@
     "options": [
       "A. Una condizione variabile che può produrre sia importanti e gravi perdite sia ampi guadagni per l’azienda",
       "B. Un rischio sempre e solo di natura prettamente finanziaria e legato all'andamento dei mercati globali",
-      "C. Una situazione in cui l'azienda può comportare soltanto una perdita o nessun impatto, senza possibilità di guadagno",
-      "D. Un fattore di grande incertezza che riguarda in modo del tutto esclusivo i mercati azionari e i grandi investimenti"
+      "C. Una situazione in cui l'azienda può comportare soltanto una perdita o nessun impatto, senza possibilità di guadagno"
     ],
     "answer": "C. Una situazione in cui l'azienda può comportare soltanto una perdita o nessun impatto, senza possibilità di guadagno",
     "explanation": "Il rischio puro si associa a situazioni in cui si può solo subire un danno o non subire nulla, come incidenti, disastri naturali o eventi di sicurezza."
@@ -190,8 +174,7 @@
     "options": [
       "A. Un evento critico che può soltanto provocare gravi e repentine perdite, senza alcun beneficio o profitto",
       "B. Un rischio aziendale che si presenta sempre totalmente scollegato da attività finanziarie e dalle logiche di mercato",
-      "C. Una condizione tipica del mondo del business che può portare indifferentemente a subire perdite o a ottenere guadagni",
-      "D. Una complessa situazione emergenziale che riguarda esclusivamente eventi naturali del tutto imprevedibili e incontrollabili"
+      "C. Una condizione tipica del mondo del business che può portare indifferentemente a subire perdite o a ottenere guadagni"
     ],
     "answer": "C. Una condizione tipica del mondo del business che può portare indifferentemente a subire perdite o a ottenere guadagni",
     "explanation": "Il rischio speculativo è tipico di investimenti e strategie commerciali e comporta sia la possibilità di perdita sia quella di profitto."
@@ -201,8 +184,7 @@
     "options": [
       "A. Un rischio facilmente gestibile e riducibile tramite l'adeguata e attenta diversificazione del proprio portafoglio",
       "B. Un rischio particolare che colpisce una singola e determinata azienda o un singolo progetto in modo molto specifico",
-      "C. Un rischio globale che colpisce l’intero mercato o l'intero sistema economico, risultando del tutto non diversificabile",
-      "D. Un rischio operativo che risulta essere sempre e solo di natura tecnologica ed è fortemente legato alla digitalizzazione"
+      "C. Un rischio globale che colpisce l’intero mercato o l'intero sistema economico, risultando del tutto non diversificabile"
     ],
     "answer": "C. Un rischio globale che colpisce l’intero mercato o l'intero sistema economico, risultando del tutto non diversificabile",
     "explanation": "Il rischio sistematico dipende da fattori macroeconomici, politici o globali e incide su tutto il mercato, non potendo essere eliminato con la diversificazione di portafoglio."
@@ -212,8 +194,7 @@
     "options": [
       "A. Un rischio sistemico che si diffonde sempre in maniera rapida, colpendo in maniera indiscriminata tutti i vari settori",
       "B. Un rischio strettamente legato a una singola azienda o settore, che può essere notevolmente ridotto diversificando",
-      "C. Un rischio ineliminabile che non viene mai in alcun modo influenzato da scelte manageriali interne o da errori di gestione",
-      "D. Un rischio esogeno che risulta essere sempre di origine naturale e meteorologica, e quindi completamente fuori dal controllo umano"
+      "C. Un rischio ineliminabile che non viene mai in alcun modo influenzato da scelte manageriali interne o da errori di gestione"
     ],
     "answer": "B. Un rischio strettamente legato a una singola azienda o settore, che può essere notevolmente ridotto diversificando",
     "explanation": "Il rischio specifico deriva da fattori peculiari di un’azienda o settore (errori, scandali, problemi di prodotto) ed è riducibile tramite diversificazione."
@@ -223,8 +204,7 @@
     "options": [
       "A. Un rischio settoriale che riguarda esclusivamente gravi errori contabili e inesattezze sistematiche di bilancio interno",
       "B. Un rischio puramente tecnologico aziendale legato unicamente a incidenti informatici e gravi violazioni della sicurezza IT",
-      "C. Un rischio legato a decisioni direzionali errate o alla mancata capacità dell'azienda di adattarsi ai cambiamenti esterni",
-      "D. Un rischio ordinario che risulta essere del tutto sovrapponibile e pienamente coincidente con il normale rischio operativo"
+      "C. Un rischio legato a decisioni direzionali errate o alla mancata capacità dell'azienda di adattarsi ai cambiamenti esterni"
     ],
     "answer": "C. Un rischio legato a decisioni direzionali errate o alla mancata capacità dell'azienda di adattarsi ai cambiamenti esterni",
     "explanation": "Il rischio strategico nasce da scelte sbagliate o dall’incapacità di rispondere a evoluzioni di mercato, concorrenza, innovazione, governance e internazionalizzazione."
@@ -234,8 +214,7 @@
     "options": [
       "A. Un preciso insieme di rischi puramente finanziari e speculativi legati a continue fluttuazioni di tassi, valute e prezzi globali",
       "B. Un limitato insieme di rischi reputazionali legati esclusivamente all'immagine dell'azienda verso i suoi clienti e stakeholder",
-      "C. Un vasto insieme di rischi aziendali dovuti a processi interni inadeguati, errori umani, guasti tecnologici e falle organizzative",
-      "D. Un particolare insieme di rischi di mercato relativi in via esclusiva alla fluttuazione della domanda e dell'offerta dei prodotti"
+      "C. Un vasto insieme di rischi aziendali dovuti a processi interni inadeguati, errori umani, guasti tecnologici e falle organizzative"
     ],
     "answer": "C. Un vasto insieme di rischi aziendali dovuti a processi interni inadeguati, errori umani, guasti tecnologici e falle organizzative",
     "explanation": "Il rischio operativo riguarda la gestione di processi, persone, tecnologie e organizzazione, includendo anche frodi, errori contabili, problemi logistici e di supply chain."
@@ -245,8 +224,7 @@
     "options": [
       "A. Sono quasi sempre legati in modo esclusivo alle complesse e volatili dinamiche della finanza aziendale e degli investimenti in borsa",
       "B. Riguardano di fatto soltanto le specifiche strategie di marketing attuate dall'azienda e la reale efficacia della comunicazione esterna",
-      "C. Si riferiscono strettamente alla sicurezza generale aziendale, alla continuità operativa e all'attenta gestione delle varie emergenze",
-      "D. Coinvolgono in modo del tutto esclusivo le public relations, i rapporti con i media e l'impatto che l'azienda ha sull'opinione pubblica"
+      "C. Si riferiscono strettamente alla sicurezza generale aziendale, alla continuità operativa e all'attenta gestione delle varie emergenze"
     ],
     "answer": "C. Si riferiscono strettamente alla sicurezza generale aziendale, alla continuità operativa e all'attenta gestione delle varie emergenze",
     "explanation": "Questi rischi si riferiscono a sicurezza fisica, patrimoniale, HSE, continuità operativa ed emergenze che impattano direttamente il funzionamento dell’impresa."
@@ -254,23 +232,21 @@
   {
     "question": "Quale tra i seguenti è un esempio di rischio operativo?",
     "options": [
-      "A. La difficile e costosa transizione ecologica unita alla sempre più forte pressione ESG proveniente dai grandi mercati finanziari",
+      "A. Un'improvvisa interruzione della complessa catena di approvvigionamento e il conseguente blocco dei flussi di fornitura verso l'azienda",
       "B. La grande incertezza e la forte volatilità dei prezzi delle materie prime scambiate quotidianamente sui principali mercati internazionali",
-      "C. La possibile e involontaria violazione di norme molto specifiche e complesse in ambito fiscale e tributario vigenti a livello nazionale",
-      "D. Un'improvvisa interruzione della complessa catena di approvvigionamento e il conseguente blocco dei flussi di fornitura verso l'azienda"
+      "C. La possibile e involontaria violazione di norme molto specifiche e complesse in ambito fiscale e tributario vigenti a livello nazionale"
     ],
-    "answer": "D. Un'improvvisa interruzione della complessa catena di approvvigionamento e il conseguente blocco dei flussi di fornitura verso l'azienda",
+    "answer": "A. Un'improvvisa interruzione della complessa catena di approvvigionamento e il conseguente blocco dei flussi di fornitura verso l'azienda",
     "explanation": "L’interruzione della catena di fornitura è un tipico rischio operativo, poiché influisce direttamente su processi produttivi e logistica."
   },
   {
     "question": "A quale categoria appartiene la violazione del GDPR?",
     "options": [
-      "A. Si tratta di un rischio puramente strategico, solitamente legato a incaute scelte aziendali o investimenti errati di lungo periodo",
+      "A. Si tratta di un classico rischio di compliance, dovuto interamente al mancato rispetto di precisi obblighi normativi, leggi e regolamenti",
       "B. Si tratta di un rischio unicamente operativo, direttamente connesso all'uso quotidiano di specifici processi interni e di nuove tecnologie",
-      "C. Si tratta di un classico rischio di compliance, dovuto interamente al mancato rispetto di precisi obblighi normativi, leggi e regolamenti",
-      "D. Si tratta di un tipico rischio puro o assoluto, fortemente legato a eventi del tutto imprevedibili che non offrono mai alcun tipo di vantaggio"
+      "C. Si tratta di un classico rischio di compliance, dovuto interamente al mancato rispetto di precisi obblighi normativi, leggi e regolamenti"
     ],
-    "answer": "C. Si tratta di un classico rischio di compliance, dovuto interamente al mancato rispetto di precisi obblighi normativi, leggi e regolamenti",
+    "answer": "A. Si tratta di un classico rischio di compliance, dovuto interamente al mancato rispetto di precisi obblighi normativi, leggi e regolamenti",
     "explanation": "La violazione della normativa sulla protezione dei dati personali è un rischio di compliance, connesso alla non conformità legale e alle relative sanzioni."
   },
   {
@@ -278,8 +254,7 @@
     "options": [
       "A. Il verificarsi di frequenti infortuni sul posto di lavoro e l'insorgenza di altri gravi e continui problemi di sicurezza fisica in azienda",
       "B. La persistente volatilità dei tassi di interesse globali e dei prezzi delle materie prime scambiate sui vari mercati internazionali",
-      "C. Il rapido manifestarsi di forti proteste sociali, scioperi prolungati e continue tensioni nelle diverse comunità locali ospitanti",
-      "D. L'impatto fortemente distruttivo di imprevedibili eventi meteo estremi che causano severi danni a infrastrutture pubbliche e impianti privati"
+      "C. Il rapido manifestarsi di forti proteste sociali, scioperi prolungati e continue tensioni nelle diverse comunità locali ospitanti"
     ],
     "answer": "B. La persistente volatilità dei tassi di interesse globali e dei prezzi delle materie prime scambiate sui vari mercati internazionali",
     "explanation": "La variabilità dei prezzi delle materie prime incide direttamente su costi, margini e risultati economico-finanziari dell’impresa."
@@ -289,8 +264,7 @@
     "options": [
       "A. Dimostra in modo molto chiaro che i grandi e disastrosi eventi incidentali non incidono quasi mai sul reale valore di mercato delle aziende",
       "B. Conferma che il titolo azionario e la solidità della BP sono rimasti sostanzialmente invariati e stabili nonostante l'immane disastro occorso",
-      "C. Evidenzia che il prezzo delle azioni è rapidamente crollato portando di fatto a dimezzare la colossale capitalizzazione iniziale della società",
-      "D. Indica che a livello operativo non vi sono stati costi imprevisti davvero significativi né si sono registrati effetti duraturi per l'intera azienda"
+      "C. Evidenzia che il prezzo delle azioni è rapidamente crollato portando di fatto a dimezzare la colossale capitalizzazione iniziale della società"
     ],
     "answer": "C. Evidenzia che il prezzo delle azioni è rapidamente crollato portando di fatto a dimezzare la colossale capitalizzazione iniziale della società",
     "explanation": "L’esplosione della piattaforma ha causato un dimezzamento del prezzo delle azioni e una perdita di oltre 100 miliardi di dollari di capitalizzazione, oltre a costi diretti molto elevati."
@@ -300,8 +274,7 @@
     "options": [
       "A. Un banale e ordinario problema commerciale e di posizionamento sul mercato, del tutto privo di reali e comprovate responsabilità tecniche interne",
       "B. Un chiaro ed evidente esempio di rischio fortemente operativo e reputazionale legato a gravi e ripetute inefficienze nella sicurezza del prodotto",
-      "C. Un evento sicuramente eccezionale e tragico ma di fatto privo di reali ed estesi impatti economici sul lungo periodo per l'azienda e l'intero settore",
-      "D. Una crisi produttiva assolutamente marginale che è stata in breve tempo molto facilmente risolta senza che occorressero severi interventi regolatori"
+      "C. Un evento sicuramente eccezionale e tragico ma di fatto privo di reali ed estesi impatti economici sul lungo periodo per l'azienda e l'intero settore"
     ],
     "answer": "B. Un chiaro ed evidente esempio di rischio fortemente operativo e reputazionale legato a gravi e ripetute inefficienze nella sicurezza del prodotto",
     "explanation": "I due incidenti aerei, attribuiti a cause tecniche e incuria, mostrano come problemi di sicurezza del prodotto possano generare crisi operative, reputazionali e regolatorie di grande portata."
@@ -311,8 +284,7 @@
     "options": [
       "A. Esse si dividono principalmente in rischi prettamente ambientali, sociali, tecnologici, geopolitici e istituzionali a seconda della loro vera natura",
       "B. Esse si classificano essenzialmente in rischi di natura strategica, operativa, di compliance e di tipo finanziario, tutti legati al business",
-      "C. Esse si articolano in modo esclusivo in rischi di tipo puro, speculativo, sistematico e specifico assecondando sempre le leggi del mercato",
-      "D. Esse si raggruppano solamente in rischi cosiddetti interni, esterni, diretti e indiretti rispetto alla gestione e all'ottimizzazione dei processi"
+      "C. Esse si articolano in modo esclusivo in rischi di tipo puro, speculativo, sistematico e specifico assecondando sempre le leggi del mercato"
     ],
     "answer": "B. Esse si classificano essenzialmente in rischi di natura strategica, operativa, di compliance e di tipo finanziario, tutti legati al business",
     "explanation": "La classificazione principale distingue rischi strategici, operativi, di compliance e finanziari, in relazione ai diversi obiettivi aziendali."
@@ -322,8 +294,7 @@
     "options": [
       "A. Questo indicatore dipende sempre e solo dall'entità del patrimonio immobiliare e dal valore complessivo degli altri asset fisici posseduti",
       "B. Esso viene determinato esclusivamente dall'ammontare totale del capitale sociale regolarmente versato dai vari azionisti nel corso del tempo",
-      "C. Esso è strettamente e matematicamente legato ai redditi futuri attesi, debitamente attualizzati con un tasso che include anche il fattore rischio",
-      "D. Tale valore risulta essere in ogni occasione del tutto indipendente sia dal grado di rischio di settore sia dall'incerto contesto di mercato"
+      "C. Esso è strettamente e matematicamente legato ai redditi futuri attesi, debitamente attualizzati con un tasso che include anche il fattore rischio"
     ],
     "answer": "C. Esso è strettamente e matematicamente legato ai redditi futuri attesi, debitamente attualizzati con un tasso che include anche il fattore rischio",
     "explanation": "Il valore è calcolato attualizzando i redditi futuri attesi, utilizzando un tasso che somma il rendimento privo di rischio e un premio per il rischio di mercato e di settore."
@@ -333,8 +304,7 @@
     "options": [
       "A. Tale concetto coincide esclusivamente con l'utile netto d'esercizio che viene regolarmente distribuito a tutti gli azionisti sotto forma di dividendo",
       "B. Questo indicatore rappresenta in modo estremamente specifico soltanto la progressiva riduzione del debito pubblico dello Stato mediante le imposte",
-      "C. Questo termine indica l’insieme dei benefici, anche di natura immateriale, che vengono di fatto prodotti per le comunità locali e per l’ambiente",
-      "D. Questa metrica si misura e si calcola esclusivamente contando il numero complessivo e certificato dei nuovi posti di lavoro creati durante l'anno"
+      "C. Questo termine indica l’insieme dei benefici, anche di natura immateriale, che vengono di fatto prodotti per le comunità locali e per l’ambiente"
     ],
     "answer": "C. Questo termine indica l’insieme dei benefici, anche di natura immateriale, che vengono di fatto prodotti per le comunità locali e per l’ambiente",
     "explanation": "Il valore sociale comprende impatti positivi su benessere collettivo, coesione, inclusione, sostenibilità ambientale e sviluppo culturale e formativo."
@@ -344,8 +314,7 @@
     "options": [
       "A. Si tratta di un indicatore demografico che misura semplicemente ed empiricamente il reddito medio pro capite di una certa e definita popolazione",
       "B. Si tratta di un rapporto statistico che confronta l'intera quota di reddito del 10% più ricco rispetto a quella posseduta dal 40% più povero",
-      "C. Si tratta di un preciso parametro macroeconomico che calcola periodicamente il rapporto tra prodotto interno lordo e debito pubblico statale",
-      "D. Si tratta di uno strumento economico standardizzato utilizzato appositamente per quantificare l'esatta pressione fiscale media sui cittadini"
+      "C. Si tratta di un preciso parametro macroeconomico che calcola periodicamente il rapporto tra prodotto interno lordo e debito pubblico statale"
     ],
     "answer": "B. Si tratta di un rapporto statistico che confronta l'intera quota di reddito del 10% più ricco rispetto a quella posseduta dal 40% più povero",
     "explanation": "Questo indicatore confronta quanta parte del reddito totale va al 10% più ricco rispetto al 40% più povero, evidenziando la concentrazione della ricchezza."
@@ -355,8 +324,7 @@
     "options": [
       "A. I rischi operativi quotidiani possono essere del tutto ignorati dalla dirigenza se il business genera ampi profitti e flussi di cassa nell'immediato",
       "B. Le decisioni aziendali direzionali vanno sempre prese ragionando sul breve periodo, senza perdere troppo tempo a valutare complessi scenari futuri",
-      "C. La piena e profonda consapevolezza dei rischi è un elemento fondamentale per poter scegliere e applicare adeguate e mirate misure di mitigazione",
-      "D. I rischi di un'impresa strutturata non si possono mai gestire internamente ma vanno sempre e interamente delegati a grandi compagnie assicurative"
+      "C. La piena e profonda consapevolezza dei rischi è un elemento fondamentale per poter scegliere e applicare adeguate e mirate misure di mitigazione"
     ],
     "answer": "C. La piena e profonda consapevolezza dei rischi è un elemento fondamentale per poter scegliere e applicare adeguate e mirate misure di mitigazione",
     "explanation": "Valutare e misurare i rischi permette di scegliere contromisure adeguate, allocare risorse in modo efficiente e proteggere valore e continuità dell’impresa."
@@ -366,8 +334,7 @@
     "options": [
       "A. L'obiettivo unico e imprescindibile è quello di ridurre progressivamente tutti i costi di produzione al fine primario di massimizzare il ritorno utile",
       "B. Il fine primario di questo modello consiste nel focalizzarsi sulle attività di marketing tralasciando quasi del tutto i meno rilevanti aspetti operativi",
-      "C. Lo scopo centrale è riuscire a integrare tutte le attività, inclusa l'attenta gestione del rischio, per poter creare, mantenere e proteggere il valore",
-      "D. La logica intrinseca impone di delegare interamente e permanentemente le questioni di sicurezza al solo reparto IT e all'ufficio sistemi informatici"
+      "C. Lo scopo centrale è riuscire a integrare tutte le attività, inclusa l'attenta gestione del rischio, per poter creare, mantenere e proteggere il valore"
     ],
     "answer": "C. Lo scopo centrale è riuscire a integrare tutte le attività, inclusa l'attenta gestione del rischio, per poter creare, mantenere e proteggere il valore",
     "explanation": "La catena del valore mostra come attività primarie e di supporto generino valore; integrare la gestione dei rischi in queste attività contribuisce a proteggere e accrescere tale valore."
@@ -377,8 +344,7 @@
     "options": [
       "A. Mantenere l'attenzione dell'azienda concentrata unicamente ed esclusivamente sui parametri contabili, sull'azionista e sui risultati puramente finanziari",
       "B. Ignorare volutamente i falsi allarmi temporanei e i cosiddetti segnali deboli, decidendo razionalmente di intervenire unicamente di fronte a crisi palesi",
-      "C. Saper analizzare in modo attento gli scenari in mutamento, rilevare tempestivamente i segnali deboli per prevenire danni e riuscire a gestire le emergenze",
-      "D. Preferire in ogni momento l'esternalizzazione di processo, affidando in toto la costosa gestione logistica e le varie emergenze operative a consulenti esterni"
+      "C. Saper analizzare in modo attento gli scenari in mutamento, rilevare tempestivamente i segnali deboli per prevenire danni e riuscire a gestire le emergenze"
     ],
     "answer": "C. Saper analizzare in modo attento gli scenari in mutamento, rilevare tempestivamente i segnali deboli per prevenire danni e riuscire a gestire le emergenze",
     "explanation": "Un’impresa resiliente sa interpretare gli scenari, valutare i rischi e individuare precocemente segnali di criticità, così da reagire per tempo e contenere gli impatti."
