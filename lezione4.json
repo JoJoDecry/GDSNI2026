@@ -2,331 +2,301 @@
   {
     "question": "Secondo le slide di Spada (citando Direttive CER/NIS2 e DORA), quale differenza metodologica emerge tra le versioni inglesi e quelle italiane delle normative?",
     "options": [
-      "A. L'inglese usa l'approccio 'multirischio' (rischi simultanei), l'italiano l'approccio 'all-hazards' (tutte le minacce)",
-      "B. L'inglese parla di 'all-hazards' (considerazione completa di tutte le minacce), l'italiano di 'multirischio' (analisi dell'accadimento simultaneo di diversi rischi)",
-      "C. Non vi è alcuna differenza, usano esattamente gli stessi termini",
-      "D. L'inglese considera solo il rischio cyber, l'italiano solo quello fisico"
+      "A. L'inglese adotta l'approccio 'multirischio' (rischi simultanei), mentre l'italiano utilizza il concetto 'all-hazards' (analisi di tutte le minacce).",
+      "B. L'inglese parla di 'all-hazards' (considerazione completa di tutte le minacce), l'italiano di 'multirischio' (analisi dell'accadimento simultaneo di diversi rischi).",
+      "C. Non vi è alcuna differenza sostanziale tra le due versioni linguistiche, poiché entrambe le normative europee utilizzano la medesima terminologia metodologica."
     ],
-    "answer": "B. L'inglese parla di 'all-hazards' (considerazione completa di tutte le minacce), l'italiano di 'multirischio' (analisi dell'accadimento simultaneo di diversi rischi)",
+    "answer": "B. L'inglese parla di 'all-hazards' (considerazione completa di tutte le minacce), l'italiano di 'multirischio' (analisi dell'accadimento simultaneo di diversi rischi).",
     "explanation": "L'approccio all-hazards implica una considerazione completa di tutte le minacce, mentre il termine italiano multirischio si concentra sull'accadimento simultaneo. Questo si traduce in metodologie di risk assessment diverse da armonizzare."
   },
   {
     "question": "Nella progettazione di un sistema antintrusione secondo la famiglia di norme CEI EN 50131, quanti sono i 'Gradi di sicurezza' (Security Grades)?",
     "options": [
-      "A. Tre (Basso, Medio, Alto)",
-      "B. Quattro (da Grado 1 - Rischio Basso a Grado 4 - Rischio Alto)",
-      "C. Sei, come per le inferriate",
-      "D. Cinque"
+      "A. Tre (da Grado 1 per Rischio Molto Basso fino al Grado 3 per Rischio Alto)",
+      "B. Quattro (da Grado 1 per Rischio Basso fino al Grado 4 per Rischio Alto)",
+      "C. Sei (suddivisi unicamente in base alla specifica resistenza fisica e meccanica)"
     ],
-    "answer": "B. Quattro (da Grado 1 - Rischio Basso a Grado 4 - Rischio Alto)",
+    "answer": "B. Quattro (da Grado 1 per Rischio Basso fino al Grado 4 per Rischio Alto)",
     "explanation": "La CEI EN 50131 individua 4 gradi di sicurezza, dal Grado 1 (intrusi con scarsa conoscenza e attrezzi base) al Grado 4 (intrusi capaci, con risorse per pianificare l'intrusione in dettaglio)."
   },
   {
     "question": "Cosa indica il 'Livello di Accesso 2' in un sistema di allarme secondo la CEI EN 50131?",
     "options": [
-      "A. L'accesso consentito a chiunque passi davanti alla sirena",
-      "B. Il livello dell'amministratore di sistema (modifica hardware)",
-      "C. Il livello di normale operatività dell'utente, che presuppone autorizzazione tramite codice o chiave per azioni di consultazione o comando",
-      "D. L'accesso per l'impostazione dei parametri di configurazione da parte dell'installatore"
+      "A. Il livello riservato in modo esclusivo all'amministratore di sistema, necessario per effettuare complesse modifiche hardware all'impianto.",
+      "B. Il livello di normale operatività dell'utente, che presuppone l'autorizzazione tramite codice o chiave per compiere azioni di base e consultazioni.",
+      "C. L'accesso dedicato specificamente per l'impostazione dei parametri di configurazione e diagnostica da parte del tecnico o dell'installatore."
     ],
-    "answer": "C. Il livello di normale operatività dell'utente, che presuppone autorizzazione tramite codice o chiave per azioni di consultazione o comando",
+    "answer": "B. Il livello di normale operatività dell'utente, che presuppone l'autorizzazione tramite codice o chiave per compiere azioni di base e consultazioni.",
     "explanation": "Il Livello 2 è quello del normale utente dell'impianto. Il Livello 1 è per 'chiunque', il 3 per l'installatore, e il 4 per l'amministratore (modifiche HW/FW)."
   },
   {
     "question": "Quale norma definisce le 6 classi di resistenza antieffrazione per grate, inferriate e serramenti?",
     "options": [
-      "A. UNI EN 1143-1",
-      "B. CEI EN 50131",
-      "C. UNI EN 1627",
-      "D. UNI EN 356"
+      "A. La norma UNI EN 1143-1, che regola principalmente la resistenza dei mezzi di custodia.",
+      "B. La norma CEI EN 50131, che definisce i gradi di sicurezza dei sistemi di antintrusione.",
+      "C. La norma UNI EN 1627, che classifica serramenti e porte in 6 classi di resistenza."
     ],
-    "answer": "C. UNI EN 1627",
+    "answer": "C. La norma UNI EN 1627, che classifica serramenti e porte in 6 classi di resistenza.",
     "explanation": "La norma UNI EN 1627 prevede 6 classi di resistenza all'effrazione (da RC1 a RC6) per serramenti, porte pedonali, finestre, grate e inferriate di sicurezza."
   },
   {
     "question": "Come vengono classificati i mezzi di custodia (casseforti professionali) secondo la norma UNI EN 1143-1?",
     "options": [
-      "A. In 4 classi (A, B, C, D)",
-      "B. In 14 livelli di resistenza crescenti da 0 a XIII",
-      "C. In 6 classi (RC1 - RC6)",
-      "D. Con la sigla P1A fino a P5A"
+      "A. In 4 macro-classi di sicurezza decrescenti, tipicamente indicate dalle lettere A, B, C, D",
+      "B. In 14 specifici livelli di resistenza crescenti, rigidamente numerati da 0 fino a XIII",
+      "C. In 6 differenti classi di tenuta e robustezza meccanica, catalogate dalla sigla RC1 a RC6"
     ],
-    "answer": "B. In 14 livelli di resistenza crescenti da 0 a XIII",
+    "answer": "B. In 14 specifici livelli di resistenza crescenti, rigidamente numerati da 0 fino a XIII",
     "explanation": "La UNI EN 1143-1 è la norma di riferimento per casseforti, ATM e camere corazzate, e prevede 14 livelli di resistenza (da 0 a XIII) calcolati in base ai valori RU (Resistance Units)."
   },
   {
     "question": "Quali informazioni, tra le altre, DEVONO essere obbligatoriamente presenti sull'etichetta interna di una cassaforte certificata?",
     "options": [
-      "A. Il nome della guardia giurata responsabile",
-      "B. La norma di riferimento, l'anno di produzione, il peso, il grado di resistenza e il numero di serie",
-      "C. La password di fabbrica per aprirla",
-      "D. Il nome del primo acquirente"
+      "A. Il nome per esteso dell'installatore e dell'agenzia di vigilanza giurata responsabile dell'impianto.",
+      "B. La norma di riferimento, l'anno di produzione, il peso, il grado di resistenza e il numero di serie.",
+      "C. I dati anagrafici del primo acquirente aziendale e la cronologia completa degli interventi manutentivi."
     ],
-    "answer": "B. La norma di riferimento, l'anno di produzione, il peso, il grado di resistenza e il numero di serie",
+    "answer": "B. La norma di riferimento, l'anno di produzione, il peso, il grado di resistenza e il numero di serie.",
     "explanation": "L'etichetta interna (spesso sulla fodera della porta) attesta la conformità alla normativa (es. EN 1143-1), indicando grado, serie, peso e anno."
   },
   {
     "question": "In merito alla sicurezza del vetro, a cosa si riferiscono le diciture 'NS' e 'S' nella norma UNI EN 1063 (Resistenza ai proiettili)?",
     "options": [
-      "A. Vetro 'Naturale' e 'Sintetico'",
-      "B. 'Non Scavalcabile' e 'Scavalcabile'",
-      "C. NS (Senza schegge / No Splinters) e S (Schegge / Splinters) relative al distacco di materiale dalla faccia posteriore dopo un impatto balistico",
-      "D. Nuovo Sistema e Sistema standard"
+      "A. Naturale (Natural Structure) e Sintetico (Synthetic), indicanti le due principali composizioni chimiche del vetro.",
+      "B. Non Scavalcabile (NS) e Scavalcabile (S), in riferimento al grado di resistenza passiva all'arrampicamento umano.",
+      "C. NS (No Splinters - Senza schegge) e S (Splinters - Schegge), relativi al distacco di materiale dal lato posteriore."
     ],
-    "answer": "C. NS (Senza schegge / No Splinters) e S (Schegge / Splinters) relative al distacco di materiale dalla faccia posteriore dopo un impatto balistico",
+    "answer": "C. NS (No Splinters - Senza schegge) e S (Splinters - Schegge), relativi al distacco di materiale dal lato posteriore.",
     "explanation": "In un test balistico (3 colpi), il vetro passa se non c'è perforazione. Viene poi classificato NS se non c'è alcun distacco di schegge all'interno, S se ci sono schegge."
   },
   {
     "question": "Nei sistemi di Controllo Accessi (Norma CEI EN 60839-11), quali due fasi preliminari sono definite 'conditio sine qua non' (condizioni indispensabili)?",
     "options": [
-      "A. La scelta del colore dei badge e la stampa dei loghi",
-      "B. Il calcolo della corrente e la stesura dei cavi",
-      "C. La conduzione di un'analisi del rischio (Risk Assessment) per ogni varco e la definizione del Security Grading di quel varco",
-      "D. L'acquisto di telecamere e l'assunzione di guardie"
+      "A. La scelta dettagliata del layout grafico dei badge aziendali e la stampa dei loghi in base alle direttive del management.",
+      "B. Il calcolo preciso della tensione di alimentazione delle serrature elettriche e la stesura della mappatura dei cavi di rete.",
+      "C. La conduzione di un'accurata analisi del rischio per ogni singolo varco e la conseguente definizione del Security Grading."
     ],
-    "answer": "C. La conduzione di un'analisi del rischio (Risk Assessment) per ogni varco e la definizione del Security Grading di quel varco",
+    "answer": "C. La conduzione di un'accurata analisi del rischio per ogni singolo varco e la conseguente definizione del Security Grading.",
     "explanation": "La normativa richiede esplicitamente che prima di progettare si analizzi il rischio per definire il grading necessario di ogni singolo punto di accesso."
   },
   {
     "question": "Cos'è l'attacco 'Stuxnet' menzionato da Spada come primo caso di studio di Cyber Physical Security (CPS)?",
     "options": [
-      "A. Un furto fisico con esplosivi a una banca londinese",
-      "B. Un malware distruttivo iniettato (probabilmente via USB) per sabotare le centrifughe nucleari in Iran alterando i PLC",
-      "C. Un attacco hacker che ha rubato i dati di milioni di carte di credito",
-      "D. Una rapina al museo del Louvre usando scooter"
+      "A. Una clamorosa e complessa effrazione fisica condotta con esplosivi ad alto potenziale ai danni del server centrale di una banca.",
+      "B. Un potente malware distruttivo progettato per sabotare fisicamente le centrifughe nucleari in Iran alterando i parametri dei PLC.",
+      "C. Un massiccio attacco hacker condotto in modo remoto per colpire i database di istituti finanziari, rubando milioni di dati."
     ],
-    "answer": "B. Un malware distruttivo iniettato (probabilmente via USB) per sabotare le centrifughe nucleari in Iran alterando i PLC",
+    "answer": "B. Un potente malware distruttivo progettato per sabotare fisicamente le centrifughe nucleari in Iran alterando i parametri dei PLC.",
     "explanation": "Stuxnet (2010) è stato il primo vero attacco cyber-fisico: un vettore informatico ha interagito col sistema OT di controllo (PLC Siemens) causando danni meccanici/fisici reali alle centrifughe di Natanz."
   },
   {
     "question": "Nel contesto dei sensori di allarme, qual è la differenza tra un sensore 'Attivo' e uno 'Passivo'?",
     "options": [
-      "A. L'attivo avvisa la polizia, il passivo suona solo la sirena",
-      "B. L'attivo richiede un'alimentazione esterna per funzionare e generare un segnale (es. radar), il passivo converte direttamente la grandezza fisica in elettrica senza energia esterna (es. termocoppia)",
-      "C. L'attivo è acceso di giorno, il passivo di notte",
-      "D. L'attivo si muove fisicamente nell'ambiente, il passivo è fisso a muro"
+      "A. L'attivo trasmette immediatamente l'allarme alle forze dell'ordine, mentre il passivo si limita unicamente ad attivare la sirena locale.",
+      "B. L'attivo richiede energia esterna per emettere un segnale, mentre il passivo converte variazioni fisiche ambientali in segnale elettrico.",
+      "C. L'attivo rimane acceso e operativo esclusivamente durante le ore diurne, mentre il passivo entra in funzione durante le ore notturne."
     ],
-    "answer": "B. L'attivo richiede un'alimentazione esterna per funzionare e generare un segnale (es. radar), il passivo converte direttamente la grandezza fisica in elettrica senza energia esterna (es. termocoppia)",
+    "answer": "B. L'attivo richiede energia esterna per emettere un segnale, mentre il passivo converte variazioni fisiche ambientali in segnale elettrico.",
     "explanation": "Un sensore passivo non irradia energia ma 'subisce' una variazione ambientale, un sensore attivo emette energia (es. onde radio) e ne legge il ritorno."
   },
   {
     "question": "Quale vantaggio principale offre una telecamera 'Dome' (a cupola) rispetto a una fissa tradizionale?",
     "options": [
-      "A. Costa molto meno",
-      "B. Consuma meno corrente",
-      "C. Ha un design compatto, l'involucro protegge dai vandalismi e la cupola rende difficile capire in che direzione stia inquadrando l'obiettivo",
-      "D. Non ha bisogno di essere collegata in rete"
+      "A. Richiede un investimento economico nettamente inferiore, sia per l'acquisto del dispositivo in sé sia per la stesura e la posa dei cavi.",
+      "B. Presenta un consumo energetico quasi nullo e permette l'installazione in ambienti critici esterni senza uso di particolari protezioni IP.",
+      "C. Ha un design compatto anti-vandalo e la cupola scura rende molto difficile per un potenziale intruso capire la direzione di puntamento."
     ],
-    "answer": "C. Ha un design compatto, l'involucro protegge dai vandalismi e la cupola rende difficile capire in che direzione stia inquadrando l'obiettivo",
+    "answer": "C. Ha un design compatto anti-vandalo e la cupola scura rende molto difficile per un potenziale intruso capire la direzione di puntamento.",
     "explanation": "La forma a cupola è un eccellente deterrente perché maschera l'orientamento della lente e protegge fisicamente la telecamera (spesso PTZ o fissa) da manomissioni."
   },
   {
     "question": "Nei sistemi di Videosorveglianza (CCTV) basati su IP, cosa indicano gli acronimi VMS e NVR?",
     "options": [
-      "A. Video Master System e No Video Record",
-      "B. Video Management System (software per gestire e analizzare flussi) e Network Video Recorder (dispositivo di registrazione per telecamere di rete)",
-      "C. Visual Monitor Screen e Network Virtual Room",
-      "D. Video Motion Sensor e Night Vision Radar"
+      "A. Video Master System (il server centrale per il controllo dei monitor) e No Video Record (la modalità di sola visualizzazione in tempo reale).",
+      "B. Video Management System (software per gestire e analizzare i flussi) e Network Video Recorder (dispositivo di registrazione per le telecamere).",
+      "C. Visual Monitor Screen (pannello di controllo avanzato per la control room) e Network Virtual Room (l'archivio di backup basato su server cloud)."
     ],
-    "answer": "B. Video Management System (software per gestire e analizzare flussi) e Network Video Recorder (dispositivo di registrazione per telecamere di rete)",
+    "answer": "B. Video Management System (software per gestire e analizzare i flussi) e Network Video Recorder (dispositivo di registrazione per le telecamere).",
     "explanation": "L'NVR è il dispositivo che registra fisicamente i dati in rete, mentre il VMS è il sistema software che centralizza, visualizza e spesso applica algoritmi di analisi (AI) ai flussi video."
   },
   {
     "question": "Secondo Spada, nella 'Multivettorialità di un attacco Cyber-Physical', quali sono i tre vettori d'attacco che possono combinarsi?",
     "options": [
-      "A. Vettore aereo, vettore terrestre, vettore navale",
-      "B. Vettore interno, vettore esterno, vettore remoto",
-      "C. Vettore fisico, vettore informatico, vettore social engineering",
-      "D. Vettore hardware, vettore software, vettore firmware"
+      "A. L'impiego operativo del vettore aereo, l'attacco frontale tramite vettore terrestre e il supporto logistico mediante il vettore navale.",
+      "B. L'intrusione insidiosa attraverso il vettore interno, l'utilizzo del vettore esterno e la compromissione totale tramite vettore remoto.",
+      "C. L'utilizzo del vettore di accesso fisico, la compromissione di un vettore informatico e l'uso dell'ingegneria sociale sulle persone."
     ],
-    "answer": "C. Vettore fisico, vettore informatico, vettore social engineering",
+    "answer": "C. L'utilizzo del vettore di accesso fisico, la compromissione di un vettore informatico e l'uso dell'ingegneria sociale sulle persone.",
     "explanation": "Un attacco moderno e complesso combina l'accesso fisico agli oggetti, la violazione informatica dei sistemi e l'ingegneria sociale per ingannare le persone."
   },
   {
     "question": "Secondo le slide di Ferioli, qual è l'Equazione dei Tempi (Principio B) e cosa implica?",
     "options": [
-      "A. Ta = Tr + Te",
-      "B. Te > Tr (dove Tr = Ta + Tri). Il tempo di effrazione (Te) deve essere maggiore del tempo di reazione (Ta + Tri) affinché la difesa sia efficace",
-      "C. Te < Tr",
-      "D. Tr = Delay + Deny"
+      "A. Ta = Tr + Te. Il tempo di allarme (Ta) deve essere sempre equivalente alla somma del tempo di reazione (Tr) e di effrazione fisica (Te).",
+      "B. Te > Tr (dove Tr = Ta + Tri). Il tempo di effrazione (Te) deve superare il tempo complessivo di reazione per garantire una difesa efficace.",
+      "C. Te < Tr. Il tempo materialmente necessario per compiere l'effrazione (Te) deve risultare nettamente inferiore al tempo di risposta (Tr)."
     ],
-    "answer": "B. Te > Tr (dove Tr = Ta + Tri). Il tempo di effrazione (Te) deve essere maggiore del tempo di reazione (Ta + Tri) affinché la difesa sia efficace",
+    "answer": "B. Te > Tr (dove Tr = Ta + Tri). Il tempo di effrazione (Te) deve superare il tempo complessivo di reazione per garantire una difesa efficace.",
     "explanation": "Il principio concettuale stabilisce che l'attaccante deve impiegare più tempo per superare le difese (Te) rispetto a quello che serve al sistema per rilevare l'allarme (Ta) e far intervenire le forze reattive (Tri)."
   },
   {
     "question": "Cosa ha fallito nel caso della rapina di Hatton Garden descritta da Ferioli?",
     "options": [
-      "A. L'allarme non ha funzionato per un black-out elettrico",
-      "B. I ladri avevano clonato i badge delle guardie giurate",
-      "C. Vi è stato un disallineamento procedurale: la Polizia ha classificato il segnale come falso allarme e la vigilanza privata non è entrata da sola per policy",
-      "D. Il caveau era rimasto aperto dalla sera prima"
+      "A. L'allarme perimetrale ad alta sicurezza non ha funzionato correttamente a causa di un esteso e imprevisto black-out elettrico nel quartiere.",
+      "B. I ladri, tramite attacchi informatici, erano riusciti a clonare i badge crittografati in dotazione alle guardie per disattivare l'impianto.",
+      "C. Vi è stato un grave disallineamento procedurale: la Polizia ha ignorato il segnale e la vigilanza privata non è entrata da sola per policy."
     ],
-    "answer": "C. Vi è stato un disallineamento procedurale: la Polizia ha classificato il segnale come falso allarme e la vigilanza privata non è entrata da sola per policy",
+    "answer": "C. Vi è stato un grave disallineamento procedurale: la Polizia ha ignorato il segnale e la vigilanza privata non è entrata da sola per policy.",
     "explanation": "Nonostante la rilevazione tecnologica ('Detect') avesse funzionato perfettamente, la risposta umana e procedurale ('Deny') è fallita clamorosamente vanificando tutto il sistema."
   },
   {
     "question": "Nella disciplina 'Physical Security in depth', come sono protetti un Data Center o una struttura complessa?",
     "options": [
-      "A. Con un'unica porta blindata molto resistente all'ingresso principale",
-      "B. Tramite un approccio stratificato (a cipolla) con molteplici barriere interdipendenti: perimetro esterno, interno, aree critiche e protezione degli asset (rack)",
-      "C. Solo tramite l'installazione di telecamere in ogni stanza",
-      "D. Esclusivamente tramite l'impiego di guardie giurate armate h24"
+      "A. Attraverso l'installazione di un'unica e impenetrabile porta blindata di massima sicurezza all'ingresso principale dell'edificio aziendale.",
+      "B. Tramite un approccio stratificato a cipolla, con barriere interdipendenti per proteggere perimetro esterno, interno, aree critiche e singoli rack.",
+      "C. Principalmente tramite l'installazione di un grandissimo numero di telecamere ad altissima risoluzione per coprire ogni singolo metro quadrato."
     ],
-    "answer": "B. Tramite un approccio stratificato (a cipolla) con molteplici barriere interdipendenti: perimetro esterno, interno, aree critiche e protezione degli asset (rack)",
+    "answer": "B. Tramite un approccio stratificato a cipolla, con barriere interdipendenti per proteggere perimetro esterno, interno, aree critiche e singoli rack.",
     "explanation": "La Security in Depth implica che se una contromisura fallisce (es. il cancello esterno), ne interviene subito un'altra (es. tornelli interni), aumentando il Delay e permettendo un Detect progressivo."
   },
   {
     "question": "Nel building block 'Access Control' (Ferioli), quali sono i tre paradigmi su cui si basa l'autorizzazione di un passaggio?",
     "options": [
-      "A. Deter, Delay, Detect",
-      "B. Biometria, Chiave, Tesserino",
-      "C. Una cosa che SAI (es. PIN), una cosa che HAI (es. Badge), una cosa che SEI (es. Biometria)",
-      "D. Hardening, Safes, Vaults"
+      "A. Deter (la pura deterrenza visiva), Delay (il ritardo fisico imposto dal tornello) e Detect (il riconoscimento elettronico in sala).",
+      "B. Il controllo esclusivo basato su Biometria avanzata, l'uso di Chiavi di sicurezza meccaniche e la rigorosa verifica visiva del Tesserino.",
+      "C. Una cosa che SAI (es. codice PIN), una cosa che HAI (es. Badge aziendale fisico) e una cosa che SEI (es. parametro Biometrico personale)."
     ],
-    "answer": "C. Una cosa che SAI (es. PIN), una cosa che HAI (es. Badge), una cosa che SEI (es. Biometria)",
+    "answer": "C. Una cosa che SAI (es. codice PIN), una cosa che HAI (es. Badge aziendale fisico) e una cosa che SEI (es. parametro Biometrico personale).",
     "explanation": "I sistemi di autenticazione possono basarsi sulla conoscenza (codice), sul possesso (token fisico) o sulle caratteristiche fisiche dell'individuo, utilizzabili anche in combinazione."
   },
   {
     "question": "Come si definisce 'L'Assurance' nel decimo building block della sicurezza fisica?",
     "options": [
-      "A. L'assicurazione finanziaria che risarcisce l'azienda in caso di furto con scasso",
-      "B. L'insieme di attività (simulazioni, auditing, analytics) che servono a verificare nel tempo che il sistema sia adeguato e a cogliere segnali deboli che ne anticipano l'inadeguatezza",
-      "C. La certezza matematica che un caveau non possa mai essere violato",
-      "D. Il collaudo elettrico obbligatorio a norma di legge (DM 37/08)"
+      "A. La stipula formale di un'assicurazione finanziaria privata che garantisca il completo risarcimento economico all'azienda in caso di furto.",
+      "B. Le attività periodiche di verifica e auditing necessarie per confermare l'efficacia del sistema e cogliere precoci segnali di debolezza.",
+      "C. L'attestazione ingegneristica con cui si fornisce la certezza matematica e assoluta che un caveau o una cassaforte non possano essere violati."
     ],
-    "answer": "B. L'insieme di attività (simulazioni, auditing, analytics) che servono a verificare nel tempo che il sistema sia adeguato e a cogliere segnali deboli che ne anticipano l'inadeguatezza",
+    "answer": "B. Le attività periodiche di verifica e auditing necessarie per confermare l'efficacia del sistema e cogliere precoci segnali di debolezza.",
     "explanation": "L'Assurance contrasta il decadimento fisiologico del sistema (es. l'abitudine del personale, i falsi allarmi ignorati) verificando costantemente l'allineamento tra il progetto teorico e la realtà operativa."
   },
   {
     "question": "Quale di queste definizioni descrive correttamente l'obiettivo 'Deny'?",
     "options": [
-      "A. Rallentare l'azione illecita fino al limite di impedirla (Delay)",
-      "B. Intercettare un'azione in corso e allarmare (Detect)",
-      "C. Disincentivare psicologicamente l'azione illecita (Deter)",
-      "D. Fronteggiare un'azione illecita in corso per impedirla direttamente (es. Forze dell'Ordine o nebbiogeni)"
+      "A. Rallentare in modo strategico e mirato l'azione illecita fino a scoraggiarla del tutto e rendere in tal modo impraticabile l'effrazione.",
+      "B. Intercettare di nascosto una grave anomalia all'interno dell'edificio aziendale per inviare in maniera celata un allarme silenzioso alla centrale.",
+      "C. Fronteggiare in modo attivo un'azione illecita in corso per impedirla fisicamente, avvalendosi dell'intervento umano o di potenti sistemi nebbiogeni."
     ],
-    "answer": "D. Fronteggiare un'azione illecita in corso per impedirla direttamente (es. Forze dell'Ordine o nebbiogeni)",
+    "answer": "C. Fronteggiare in modo attivo un'azione illecita in corso per impedirla fisicamente, avvalendosi dell'intervento umano o di potenti sistemi nebbiogeni.",
     "explanation": "Il Deny rappresenta la reazione fisica o da remoto finalizzata a bloccare definitivamente la minaccia mentre è in corso."
   },
   {
     "question": "Cosa prescrive l'Art. 2224 del Codice Civile in relazione all'esecuzione di un'opera di sicurezza?",
     "options": [
-      "A. Che l'installatore deve fornire telecamere IP in 4K",
-      "B. Che l'opera deve essere eseguita a 'regola d'arte', ossia sicura e utilizzabile secondo l'uso programmato; altrimenti il committente può fissare un termine per l'adeguamento",
-      "C. Che la vigilanza privata non ha poteri di polizia giudiziaria",
-      "D. Che le casseforti devono pesare almeno 100 kg"
+      "A. Che la ditta fornitrice ha sempre l'inderogabile obbligo di installare esclusivamente impianti TVCC dotati di altissima risoluzione per scopi probatori.",
+      "B. Che l'opera deve essere eseguita rigorosamente a 'regola d'arte'; in caso contrario il committente può stabilire un congruo termine per l'adeguamento.",
+      "C. Che il personale di vigilanza privata incaricato della protezione non dispone mai e in nessuna occasione delle qualifiche tipiche della polizia giudiziaria."
     ],
-    "answer": "B. Che l'opera deve essere eseguita a 'regola d'arte', ossia sicura e utilizzabile secondo l'uso programmato; altrimenti il committente può fissare un termine per l'adeguamento",
+    "answer": "B. Che l'opera deve essere eseguita rigorosamente a 'regola d'arte'; in caso contrario il committente può stabilire un congruo termine per l'adeguamento.",
     "explanation": "Il concetto di 'Regola d'arte' è un obbligo di diligenza sancito dal Codice Civile. Adeguarsi alle Norme (es. UNI, CEI) è il metodo principe per garantire e dimostrare la regola d'arte."
   },
   {
     "question": "Nella famiglia di norme CEI EN 62676 per i sistemi di videosorveglianza, quali parametri garantiscono l'integrità dei dati?",
     "options": [
-      "A. Frame rate, risoluzione in Megapixel e tipo di lente varifocale",
-      "B. Identificazione dei dati (ora/data corretta), autenticazione (prevenzione di modifiche/cancellazioni) e protezione dall'accesso non autorizzato",
-      "C. Protezione contro la pioggia, il sole e la grandine",
-      "D. La presenza di un operatore umano che guardi costantemente il monitor"
+      "A. L'elevato frame rate per l'acquisizione fluida, l'altissima risoluzione del sensore d'immagine e l'impiego indispensabile di ottiche grandangolari.",
+      "B. L'identificazione esatta tramite marca temporale, l'autenticazione contro manipolazioni esterne e la severa protezione contro ogni accesso non autorizzato.",
+      "C. La totale e testata protezione dell'intero impianto meccanico contro agenti atmosferici avversi, come precipitazioni prolungate o radiazioni solari."
     ],
-    "answer": "B. Identificazione dei dati (ora/data corretta), autenticazione (prevenzione di modifiche/cancellazioni) e protezione dall'accesso non autorizzato",
+    "answer": "B. L'identificazione esatta tramite marca temporale, l'autenticazione contro manipolazioni esterne e la severa protezione contro ogni accesso non autorizzato.",
     "explanation": "Questi parametri informatici sono fondamentali perché i video di sicurezza costituiscono dati probatori: devono essere inalterabili, verificabili e inaccessibili a malintenzionati."
   },
   {
     "question": "Secondo il report Verizon 2024 citato da Ferioli, qual è la principale causa dei data breach e dei fallimenti delle sicurezze?",
     "options": [
-      "A. Le telecamere con scarsa risoluzione notturna",
-      "B. L'assenza di firewall aggiornati",
-      "C. Le porte blindate di classe inferiore alla RC3",
-      "D. Le persone (Human Factor) tramite errori, distrazioni o ingegneria sociale"
+      "A. La grave obsolescenza del parco hardware aziendale, con particolare riferimento ai sistemi TVCC affetti da una scarsa risoluzione della visione notturna.",
+      "B. La costante e perdurante assenza di firewall perimetrali adeguatamente aggiornati contro le sofisticate minacce informatiche lanciate dal dark web.",
+      "C. Le persone stesse (Human Factor), le quali compromettono i sistemi di difesa aziendali tramite errori operativi, banali distrazioni o ingegneria sociale."
     ],
-    "answer": "D. Le persone (Human Factor) tramite errori, distrazioni o ingegneria sociale",
+    "answer": "C. Le persone stesse (Human Factor), le quali compromettono i sistemi di difesa aziendali tramite errori operativi, banali distrazioni o ingegneria sociale.",
     "explanation": "Il fattore umano ('Human Factor') è l'anello debole che può vanificare anche i migliori sistemi tecnologici e fisici, rendendo vitali la formazione e la sensibilizzazione."
   },
   {
     "question": "Negli armadi di sicurezza, cosa differenzia la norma EN 15659 (Armadi ignifughi leggeri) dalla EN 1047-1 (Armadi dati e supporti)?",
     "options": [
-      "A. La prima protegge dai ladri, la seconda dall'acqua",
-      "B. La prima protegge documenti cartacei fino a 170°C, la seconda garantisce protezione estrema (anche ai gas/acqua) tenendo l'interno sotto i 30°C per salvare i delicati supporti magnetici/dati",
-      "C. Non vi è alcuna differenza, sono interscambiabili",
-      "D. La 1047-1 riguarda solo le armi da fuoco"
+      "A. La prima norma valuta e certifica esclusivamente la resistenza strutturale contro lo scasso, mentre la seconda assicura l'impermeabilità ai forti getti d'acqua.",
+      "B. La prima norma attesta una resistenza al fuoco per la carta, mentre la seconda tutela i delicati dispositivi digitali abbassando drasticamente la temperatura interna.",
+      "C. Dal punto di vista pratico non vi è reale differenza, ed entrambi gli armadi possono essere adoperati promiscuamente per custodire sia i faldoni che gli hard disk."
     ],
-    "answer": "B. La prima protegge documenti cartacei fino a 170°C, la seconda garantisce protezione estrema (anche ai gas/acqua) tenendo l'interno sotto i 30°C per salvare i delicati supporti magnetici/dati",
+    "answer": "B. La prima norma attesta una resistenza al fuoco per la carta, mentre la seconda tutela i delicati dispositivi digitali abbassando drasticamente la temperatura interna.",
     "explanation": "I supporti magnetici si distruggono già a 50°C, mentre la carta resiste fino a circa 170°C. Per i dati serve la certificazione EN 1047-1 (classi DIS), molto più stringente."
   },
   {
     "question": "Che cosa regolamenta la norma PAS 68 citata nel documento di Spada?",
     "options": [
-      "A. I sistemi di allarme nebbiogeni",
-      "B. La resistenza dei dissuasori di traffico (bollard/barriere) basata sulla massa del veicolo e velocità d'impatto (da auto a autoarticolati di 320 Q)",
-      "C. I tornelli di accesso pedonale in stazione",
-      "D. I requisiti medici delle guardie giurate"
+      "A. Stabilisce i severi requisiti prestazionali per l'installazione dei più avanzati e moderni sistemi di erogazione nebbiogena in tutte le aree ad altissimo rischio.",
+      "B. Determina la resistenza meccanica dei dissuasori di traffico perimetrali calcolando precisamente la massa di svariati tipi di veicolo in relazione alla velocità d'impatto.",
+      "C. Definisce in maniera chiara e vincolante le specifiche elettromeccaniche per la corretta omologazione dei grandi tornelli installati nelle principali stazioni metropolitane."
     ],
-    "answer": "B. La resistenza dei dissuasori di traffico (bollard/barriere) basata sulla massa del veicolo e velocità d'impatto (da auto a autoarticolati di 320 Q)",
+    "answer": "B. Determina la resistenza meccanica dei dissuasori di traffico perimetrali calcolando precisamente la massa di svariati tipi di veicolo in relazione alla velocità d'impatto.",
     "explanation": "La PAS 68 è lo standard per l'Hostile Vehicle Mitigation (HVM), che testa le barriere contro l'attacco di veicoli lanciati a forte velocità per proteggere i perimetri."
   },
   {
     "question": "Quale funzione svolge un PSIM (Physical Security Information Management System) in una Control Room?",
     "options": [
-      "A. È un'arma usata dalla vigilanza privata",
-      "B. È una procedura cartacea per chiamare le Forze dell'Ordine",
-      "C. È un sistema software che integra, correla e gestisce ad un livello superiore le informazioni provenienti da diversi sotto-sistemi (allarmi, video, accessi) automatizzando le procedure",
-      "D. È un sensore antintrusione a fibra ottica"
+      "A. Si tratta di una complessa e formale procedura operativa cartacea adoperata dalle guardie per allertare celermente e in modo sicuro tutte le Forze dell'Ordine territoriali.",
+      "B. È una piattaforma software in grado di correlare e gestire simultaneamente i flussi di dati provenienti da più sottosistemi di sicurezza, permettendo di automatizzare le risposte.",
+      "C. Rappresenta l'innovativo e sensibilissimo cavo in fibra ottica posizionato unicamente lungo il confine aziendale con lo scopo di rilevare scavi non autorizzati o pesanti intrusioni."
     ],
-    "answer": "C. È un sistema software che integra, correla e gestisce ad un livello superiore le informazioni provenienti da diversi sotto-sistemi (allarmi, video, accessi) automatizzando le procedure",
+    "answer": "B. È una piattaforma software in grado di correlare e gestire simultaneamente i flussi di dati provenienti da più sottosistemi di sicurezza, permettendo di automatizzare le risposte.",
     "explanation": "Lo PSIM funge da 'cervello' della control room, riunendo interfacce eterogenee in un'unica piattaforma per facilitare all'operatore l'analisi situazionale e la risposta (escalation)."
   },
   {
     "question": "Se valutiamo il furto al Louvre tramite l'Equazione dei Tempi, cosa scopriamo?",
     "options": [
-      "A. Che l'equazione è stata rispettata, infatti i ladri sono stati arrestati nel museo",
-      "B. Che l'equazione non è stata rispettata: i ladri hanno impiegato 8 minuti (Te) ma la polizia è arrivata dopo 8.5 minuti (Tr), a causa di un ritardo nel rilevamento dell'allarme (Ta=6min)",
-      "C. Che la cassaforte del Louvre era finta",
-      "D. Che il Delay era eccessivo e ha intrappolato i ladri"
+      "A. Si evince con estrema chiarezza che le complesse equazioni difensive erano state pienamente rispettate, e infatti i ladri sono stati neutralizzati all'interno dei locali.",
+      "B. L'equazione di Ferioli risulta palesemente inapplicabile e ha fallito semplicemente perché le costosissime teche del Louvre non vantavano alcun grado di certificazione balistica.",
+      "C. Si scopre che l'equazione non è stata rispettata: i malintenzionati hanno impiegato 8 minuti, ma i ritardi accumulati nell'allarme hanno portato la risposta difensiva a 8,5 minuti."
     ],
-    "answer": "B. Che l'equazione non è stata rispettata: i ladri hanno impiegato 8 minuti (Te) ma la polizia è arrivata dopo 8.5 minuti (Tr), a causa di un ritardo nel rilevamento dell'allarme (Ta=6min)",
+    "answer": "C. Si scopre che l'equazione non è stata rispettata: i malintenzionati hanno impiegato 8 minuti, ma i ritardi accumulati nell'allarme hanno portato la risposta difensiva a 8,5 minuti.",
     "explanation": "Nel caso del Louvre, l'allarme ha suonato (Detect) solo quando è stata rotta la teca interna. A quel punto il tempo di risposta (Tri) della polizia non è stato sufficiente a compensare il ritardo, risultando in Te < Tr."
   },
   {
     "question": "Quale delle seguenti è una potenzialità della moderna Video Analisi (AI based)?",
     "options": [
-      "A. Stampare i badge di accesso per i dipendenti",
-      "B. Riconoscere l'età anagrafica esatta di una persona per venderle prodotti",
-      "C. Distinguere tra umani e animali riducendo i falsi allarmi, rilevare scavalcamenti virtuali, stazionamento sospetto (loitering) e leggere le targhe",
-      "D. Sparare un gas urticante dallo schermo"
+      "A. Consente di estromettere le vecchie tecnologie stampando e autorizzando le tessere di prossimità aziendali per tutti i lavoratori direttamente da una dashboard web dedicata.",
+      "B. Permette di differenziare efficacemente le figure umane dalla fauna per ridurre i disservizi, rilevare stazionamenti non autorizzati prolungati e decifrare le targhe in entrata.",
+      "C. È capace di esaminare la conformazione di ogni volto inquadrato, dedurne con alta precisione l'età anagrafica al fine di mostrare campagne di marketing su display interattivi."
     ],
-    "answer": "C. Distinguere tra umani e animali riducendo i falsi allarmi, rilevare scavalcamenti virtuali, stazionamento sospetto (loitering) e leggere le targhe",
+    "answer": "B. Permette di differenziare efficacemente le figure umane dalla fauna per ridurre i disservizi, rilevare stazionamenti non autorizzati prolungati e decifrare le targhe in entrata.",
     "explanation": "L'Intelligenza Artificiale applicata ai VMS permette di passare da una sorveglianza passiva a un sistema attivo (Detect) in grado di scatenare allarmi basati su regole comportamentali precise."
   },
   {
     "question": "Cosa prevedono le classi ambientali (I, II, III, IV) per gli impianti di allarme secondo la CEI EN 50131?",
     "options": [
-      "A. I colori da usare per i cavi elettrici",
-      "B. Il livello di rumore (decibel) che la sirena può emettere",
-      "C. L'impatto ecologico dello smaltimento delle batterie",
-      "D. Le condizioni ambientali in cui il dispositivo deve operare (es. Classe I: interno controllato, Classe IV: esterno esposto alle intemperie estreme)"
+      "A. Definiscono le rigorose specifiche cromatiche mondiali da adottare durante il cablaggio elettrico al fine di semplificare enormemente le manutenzioni ordinarie e straordinarie dell'impianto.",
+      "B. Riguardano il livello massimo di rumorosità in decibel tollerato in prossimità dell'ambiente abitato, per evitare di generare disturbi molesti in aree pubbliche tramite sirene sproporzionate.",
+      "C. Determinano le condizioni termiche e di umidità che i componenti dell'impianto possono sopportare senza guasti, come, ad esempio, ambienti rigidamente controllati o esterni soggetti a tempeste."
     ],
-    "answer": "D. Le condizioni ambientali in cui il dispositivo deve operare (es. Classe I: interno controllato, Classe IV: esterno esposto alle intemperie estreme)",
+    "answer": "C. Determinano le condizioni termiche e di umidità che i componenti dell'impianto possono sopportare senza guasti, come, ad esempio, ambienti rigidamente controllati o esterni soggetti a tempeste.",
     "explanation": "Le classi ambientali garantiscono che un componente sia progettato per resistere all'umidità e alle variazioni termiche del luogo esatto in cui verrà posizionato."
   },
   {
     "question": "Nella struttura della Physical Security, a cosa serve il building block 'Security Procedures'?",
     "options": [
-      "A. Sono gli strumenti (documenti) per individuare, comunicare e regolamentare chi (ruoli), come, quando e dove deve eseguire le attività necessarie al funzionamento dei sistemi",
-      "B. È il manuale di installazione fornito dal produttore del software",
-      "C. Sono le procedure giudiziarie per denunciare un furto",
-      "D. È l'acronimo di Physical Security Information Management"
+      "A. Costituiscono i documenti vitali che delineano con estrema esattezza chi, in quali frangenti e con quali modalità debba svolgere ciascuna mansione operativa fondamentale alla sicurezza aziendale.",
+      "B. Rappresentano l'insieme delle indispensabili istruzioni manualistiche redatte dal produttore software per la configurazione informatica avanzata dei molteplici dispositivi di controllo visivo.",
+      "C. Inquadrano il corpus formale di stringenti codici e direttive legali a cui il comparto sicurezza deve perentoriamente conformarsi ogniqualvolta sussista la necessità di formalizzare un furto grave."
     ],
-    "answer": "A. Sono gli strumenti (documenti) per individuare, comunicare e regolamentare chi (ruoli), come, quando e dove deve eseguire le attività necessarie al funzionamento dei sistemi",
+    "answer": "A. Costituiscono i documenti vitali che delineano con estrema esattezza chi, in quali frangenti e con quali modalità debba svolgere ciascuna mansione operativa fondamentale alla sicurezza aziendale.",
     "explanation": "Le procedure traducono la tecnologia in comportamento operativo. Senza procedure chiare (es. come reagire a un allarme, chi custodisce le chiavi) i sistemi tecnologici risultano inefficaci."
   },
   {
     "question": "L'attacco a un ATM (Bancomat) descritto nelle slide, che consiste nell'accedere ai cavi per collegare un PC ed erogare contante (Black Box attack), è un classico esempio di:",
     "options": [
-      "A. Furto con lancia termica",
-      "B. Attacco informatico puro lanciato dal dark web",
-      "C. Attacco Cyber-Physical (combinazione di violazione del vettore fisico per ottenere l'accesso ai vettori informatici e logici della macchina)",
-      "D. Social Engineering"
+      "A. Un attacco perpetrato ricorrendo a vetusti e anacronistici strumenti manuali da scasso o servendosi irruentemente dell'azione termica distruttiva fornita da fiamma ossidrica concentrata.",
+      "B. Un'aggressione puramente logica e astratta intrapresa a lunga distanza da cybercriminali d'élite russi navigando e sfruttando protocolli di rete profondamente crittografati nel dark web.",
+      "C. Una complessa minaccia di tipo Cyber-Physical, in cui la forzatura dell'involucro esterno garantisce il vitale e rapido accesso all'infrastruttura logica interna del terminale erogatore."
     ],
-    "answer": "C. Attacco Cyber-Physical (combinazione di violazione del vettore fisico per ottenere l'accesso ai vettori informatici e logici della macchina)",
+    "answer": "C. Una complessa minaccia di tipo Cyber-Physical, in cui la forzatura dell'involucro esterno garantisce il vitale e rapido accesso all'infrastruttura logica interna del terminale erogatore.",
     "explanation": "L'attaccante usa strumenti fisici per forzare il pannello della macchina e raggiungere la porta USB o il bus seriale (OT/IT), combinando le due sfere (Cyber e Fisica)."
   }
 ]
