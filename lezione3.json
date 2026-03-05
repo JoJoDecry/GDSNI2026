@@ -2,331 +2,301 @@
   {
     "question": "Secondo la norma ISO 31000, perché è importante considerare i fattori umani e culturali nella gestione del rischio?",
     "options": [
-      "A. Perché imposto da una legge penale",
-      "B. Perché percezioni, conoscenze e comportamenti influenzano il raggiungimento degli obiettivi e il risk management",
-      "C. Perché i dipendenti devono essere controllati fisicamente",
-      "D. Perché riduce i costi del personale"
+      "A. Perché una specifica normativa penale internazionale obbliga tutte le aziende a rendicontare formalmente questi aspetti.",
+      "B. Perché percezioni, conoscenze e comportamenti umani influenzano direttamente l'intero processo di risk management.",
+      "C. Perché i dipendenti devono essere costantemente monitorati dal punto di vista fisico per prevenire ogni tipo di furto aziendale."
     ],
-    "answer": "B. Perché percezioni, conoscenze e comportamenti influenzano il raggiungimento degli obiettivi e il risk management",
+    "answer": "B. Perché percezioni, conoscenze e comportamenti umani influenzano direttamente l'intero processo di risk management.",
     "explanation": "La norma ISO 31000 sottolinea che il comportamento umano, la cultura organizzativa e le percezioni del rischio influenzano direttamente, facilitando o ostacolando, il risk management."
   },
   {
     "question": "Il caso del Volo US Airways 1549 (ammarrato sull'Hudson) illustra l'importanza di quale concetto umano in condizioni estreme?",
     "options": [
-      "A. Cecità da disattenzione",
-      "B. L'incapacità dei computer di pilotare un aereo",
-      "C. L'importanza del processo decisionale rapido e dell'esperienza umana di fronte all'imprevisto",
-      "D. Il bias di conferma"
+      "A. Il fenomeno della cecità da disattenzione, che impedisce ai piloti di notare i segnali di allarme visivi e acustici.",
+      "B. L'importanza cruciale del processo decisionale rapido e dell'esperienza umana di fronte a eventi del tutto imprevisti.",
+      "C. Il cosiddetto bias di conferma, che porta gli equipaggi a ignorare i dati reali per confermare le proprie teorie iniziali."
     ],
-    "answer": "C. L'importanza del processo decisionale rapido e dell'esperienza umana di fronte all'imprevisto",
+    "answer": "B. L'importanza cruciale del processo decisionale rapido e dell'esperienza umana di fronte a eventi del tutto imprevisti.",
     "explanation": "Il caso di Sully dimostra come di fronte a eventi \"senza precedenti\" l'esperienza, la percezione e il processo decisionale umano siano fondamentali per la sopravvivenza."
   },
   {
     "question": "Qual è una definizione intuitiva di \"Rischio\" presentata nel materiale?",
     "options": [
-      "A. La probabilità matematica di un errore",
-      "B. Il potenziale di conseguenze (indesiderate) di un'attività in relazione all'incertezza futura",
-      "C. Un evento dannoso già verificatosi",
-      "D. La mancanza di difese informatiche"
+      "A. La probabilità puramente matematica che un errore umano comprometta il funzionamento di un sistema tecnico aziendale.",
+      "B. Il potenziale di conseguenze indesiderate di una specifica attività, sempre in stretta relazione all'incertezza futura.",
+      "C. Un evento dannoso e imprevisto che si è già verificato all'interno dell'organizzazione causando gravi perdite economiche."
     ],
-    "answer": "B. Il potenziale di conseguenze (indesiderate) di un'attività in relazione all'incertezza futura",
+    "answer": "B. Il potenziale di conseguenze indesiderate di una specifica attività, sempre in stretta relazione all'incertezza futura.",
     "explanation": "Il rischio è definito intuitivamente come il potenziale di conseguenze di un'attività; include l'evento (A), le conseguenze (C) e l'incertezza (U)."
   },
   {
     "question": "Nel contesto dell'analisi del rischio, cos'è la \"Vulnerabilità\"?",
     "options": [
-      "A. Un agente esterno che attacca il sistema",
-      "B. L'errore umano intenzionale (sabotaggio)",
-      "C. La probabilità che un evento si verifichi",
-      "D. La caratteristica di un sistema che lo rende suscettibile a subire conseguenze indesiderate in caso si verifichi un evento"
+      "A. Un pericoloso agente esterno o ambientale che attacca deliberatamente il sistema causando un'interruzione dei servizi.",
+      "B. L'errore umano di natura puramente intenzionale, come il sabotaggio interno, che mira a distruggere i dati aziendali.",
+      "C. La caratteristica intrinseca di un sistema che lo rende suscettibile a subire gravi conseguenze al verificarsi di un evento."
     ],
-    "answer": "D. La caratteristica di un sistema che lo rende suscettibile a subire conseguenze indesiderate in caso si verifichi un evento",
+    "answer": "C. La caratteristica intrinseca di un sistema che lo rende suscettibile a subire gravi conseguenze al verificarsi di un evento.",
     "explanation": "La vulnerabilità è la condizione (fisica, sociale, economica, organizzativa) che aumenta la suscettibilità di un sistema all'impatto di un pericolo o minaccia."
   },
   {
     "question": "Secondo lo psicologo Paul Slovic, il \"rischio oggettivo\" esiste?",
     "options": [
-      "A. Sì, è misurabile perfettamente con formule matematiche",
-      "B. No, il rischio non esiste in natura: l'essere umano ha inventato il concetto per aiutarlo a comprendere e gestire pericoli",
-      "C. Sì, ma solo per i rischi informatici",
-      "D. Esiste solo se la probabilità è superiore al 50%"
+      "A. Sì, esiste in natura ed è perfettamente misurabile e calcolabile attraverso complesse formule matematiche e statistiche.",
+      "B. No, non esiste in natura: l'essere umano ha inventato questo concetto puramente mentale per comprendere e gestire i pericoli.",
+      "C. Sì, ma la sua esistenza oggettiva è limitata esclusivamente al dominio dei rischi informatici e tecnologici strutturati."
     ],
-    "answer": "B. No, il rischio non esiste in natura: l'essere umano ha inventato il concetto per aiutarlo a comprendere e gestire pericoli",
+    "answer": "B. No, non esiste in natura: l'essere umano ha inventato questo concetto puramente mentale per comprendere e gestire i pericoli.",
     "explanation": "Slovic sostiene che \"Il rischio non esiste. L'essere umano ha inventato il concetto di rischio. Non esiste un rischio reale o oggettivo\"; esistono i pericoli, ma il rischio è una valutazione umana."
   },
   {
     "question": "Le persone valutano il rischio in modo puramente razionale (P x I)?",
     "options": [
-      "A. Sì, sempre",
-      "B. Sì, tranne i bambini",
-      "C. No, le persone valutano il rischio in modo intuitivo, basandosi su affettività e processi cognitivi semplificati",
-      "D. Sì, se hanno a disposizione tutti i dati statistici"
+      "A. Sì, le persone adulte e formate valutano sempre i rischi in modo perfettamente razionale calcolando probabilità e impatto.",
+      "B. No, le persone valutano il rischio in modo molto intuitivo, basandosi sull'affettività e su processi cognitivi semplificati.",
+      "C. Sì, ma questo avviene esclusivamente quando i decisori hanno a completa disposizione tutti i dati statistici e matematici."
     ],
-    "answer": "C. No, le persone valutano il rischio in modo intuitivo, basandosi su affettività e processi cognitivi semplificati",
+    "answer": "B. No, le persone valutano il rischio in modo molto intuitivo, basandosi sull'affettività e su processi cognitivi semplificati.",
     "explanation": "La psicologia dimostra che non valutiamo il rischio razionalmente. Il processo decisionale si basa spesso su giudizi intuitivi, bias, ed emozioni, non su pure probabilità statistiche."
   },
   {
     "question": "Quali sono le due dimensioni principali della percezione del rischio?",
     "options": [
-      "A. Economica e Tecnica",
-      "B. Cognitiva e Affettiva",
-      "C. Probabilità e Danno",
-      "D. Interna ed Esterna"
+      "A. La dimensione strettamente Economica (impatto sui costi) e la dimensione puramente Tecnica (efficacia delle difese).",
+      "B. La dimensione Cognitiva (valutazione mentale razionale) e la dimensione Affettiva (reazione emotiva e istintuale).",
+      "C. La dimensione legata alla Probabilità (frequenza degli eventi) e la dimensione relativa al Danno (magnitudo economica)."
     ],
-    "answer": "B. Cognitiva e Affettiva",
+    "answer": "B. La dimensione Cognitiva (valutazione mentale razionale) e la dimensione Affettiva (reazione emotiva e istintuale).",
     "explanation": "La percezione del rischio è determinata sia da una dimensione cognitiva (valutazione mentale dell'oggetto) sia da una dimensione affettiva/emotiva."
   },
   {
     "question": "Nel 'Paradigma Psicometrico' di Slovic (Cognitive Map of Risk), quali sono i due fattori principali che influenzano la percezione di un pericolo?",
     "options": [
-      "A. Costo ed Efficacia",
-      "B. Rischio sconosciuto (Unknown) e Rischio spaventoso/temuto (Dread)",
-      "C. Probabilità e Impatto",
-      "D. Dolo e Colpa"
+      "A. Il livello di Rischio sconosciuto (Unknown factor) e il livello di Rischio spaventoso o temuto (Dread factor).",
+      "B. Il calcolo matematico della Probabilità di accadimento e l'analisi quantitativa dell'Impatto economico diretto.",
+      "C. La distinzione giuridica tra il Dolo (azione del tutto intenzionale) e la Colpa (negligenza o grave imperizia)."
     ],
-    "answer": "B. Rischio sconosciuto (Unknown) e Rischio spaventoso/temuto (Dread)",
+    "answer": "A. Il livello di Rischio sconosciuto (Unknown factor) e il livello di Rischio spaventoso o temuto (Dread factor).",
     "explanation": "La ricerca di Slovic ha mappato i pericoli su due assi principali: quanto un rischio è \"sconosciuto\" (nuovo, effetti ritardati) e quanto è \"spaventoso\" (catastrofico, incontrollabile)."
   },
   {
     "question": "Secondo la Cognitive Map of Risk, perché l'energia nucleare spaventa più della bicicletta?",
     "options": [
-      "A. Perché la bicicletta causa più morti",
-      "B. Perché l'energia nucleare è percepita con alto rischio \"sconosciuto\" e alto rischio \"spaventoso/catastrofico\"",
-      "C. Perché le persone non sanno andare in bicicletta",
-      "D. Perché la bicicletta costa meno"
+      "A. Perché le statistiche globali dimostrano chiaramente che la bicicletta causa un numero di morti nettamente inferiore ogni anno.",
+      "B. Perché il nucleare unisce un alto livello di rischio \"sconosciuto\" a un altissimo livello di rischio \"spaventoso e catastrofico\".",
+      "C. Perché la maggior parte delle persone non possiede le competenze tecniche necessarie per comprendere il funzionamento delle biciclette."
     ],
-    "answer": "B. Perché l'energia nucleare è percepita con alto rischio \"sconosciuto\" e alto rischio \"spaventoso/catastrofico\"",
+    "answer": "B. Perché il nucleare unisce un alto livello di rischio \"sconosciuto\" a un altissimo livello di rischio \"spaventoso e catastrofico\".",
     "explanation": "I rischi come il nucleare possiedono caratteristiche che esaltano la percezione di pericolo (incontrollabile, catastrofico, sconosciuto), a differenza di rischi familiari e controllabili come la bici."
   },
   {
     "question": "Qual è il principale impatto di una errata percezione del rischio in ambito aziendale?",
     "options": [
-      "A. Riduzione del premio assicurativo",
-      "B. Aumento della produttività",
-      "C. Comportamenti lavorativi non-sicuri e inadeguata adozione delle misure precauzionali",
-      "D. Miglioramento della compliance"
+      "A. Una drastica e immediata riduzione del premio assicurativo pagato dall'azienda per la copertura di responsabilità civile.",
+      "B. L'adozione di comportamenti lavorativi non sicuri e una del tutto inadeguata applicazione delle misure precauzionali previste.",
+      "C. Un netto miglioramento della compliance normativa grazie a procedure burocratiche percepite come meno stringenti dai dipendenti."
     ],
-    "answer": "C. Comportamenti lavorativi non-sicuri e inadeguata adozione delle misure precauzionali",
+    "answer": "B. L'adozione di comportamenti lavorativi non sicuri e una del tutto inadeguata applicazione delle misure precauzionali previste.",
     "explanation": "Le percezioni errate (es. sottostima) portano gli individui a non seguire le regole di sicurezza, esponendosi al pericolo e causando incidenti."
   },
   {
     "question": "Le violazioni lavorative si dividono in diverse tipologie. Cosa sono le 'Routine violations'?",
     "options": [
-      "A. Violazioni rare per salvare vite in emergenza",
-      "B. Atti di sabotaggio intenzionale",
-      "C. Deviazioni regolari e abituali divenute il 'modo normale di lavorare' all'interno di un gruppo",
-      "D. Regole violate per mancanza momentanea di strumenti adeguati"
+      "A. Sono violazioni estremamente rare che i dipendenti commettono unicamente per salvare vite umane durante gravi emergenze.",
+      "B. Sono deviazioni regolari e abituali dalle regole che sono ormai diventate il \"modo normale di lavorare\" per quel gruppo.",
+      "C. Sono regole aziendali che vengono violate esclusivamente a causa della mancanza momentanea di strumenti o di DPI adeguati."
     ],
-    "answer": "C. Deviazioni regolari e abituali divenute il 'modo normale di lavorare' all'interno di un gruppo",
+    "answer": "B. Sono deviazioni regolari e abituali dalle regole che sono ormai diventate il \"modo normale di lavorare\" per quel gruppo.",
     "explanation": "Le routine violations avvengono quando superare una regola di sicurezza diventa un'abitudine consolidata e accettata nel gruppo (es. 'lo fanno tutti')."
   },
   {
     "question": "A quali 3 livelli di analisi viene studiata la percezione del rischio?",
     "options": [
-      "A. Basso, Medio, Alto",
-      "B. Fisico, Logico, Umano",
-      "C. Individuo, Gruppo, Organizzazione",
-      "D. Pubblico, Privato, Aziendale"
+      "A. Il livello della Sicurezza Fisica, il livello della Sicurezza Logico-Informatica e il livello del Comportamento Umano.",
+      "B. Il livello del singolo Individuo, il livello del Gruppo di lavoro e il livello dell'intera Organizzazione aziendale.",
+      "C. Il livello dell'Amministrazione Pubblica, il livello del Cittadino Privato e il livello della singola Realtà Aziendale."
     ],
-    "answer": "C. Individuo, Gruppo, Organizzazione",
+    "answer": "B. Il livello del singolo Individuo, il livello del Gruppo di lavoro e il livello dell'intera Organizzazione aziendale.",
     "explanation": "La percezione del rischio si analizza su tre livelli: come l'individuo percepisce il rischio, come lo percepisce il gruppo (es. panico di folla) e come lo percepisce l'organizzazione aziendale."
   },
   {
     "question": "Cos'è la \"Consapevolezza situazionale\" (Situational Awareness)?",
     "options": [
-      "A. Conoscere a memoria il manuale della sicurezza",
-      "B. La percezione degli elementi dell'ambiente, la comprensione del loro significato e la proiezione del loro stato futuro",
-      "C. La capacità di lavorare al computer senza guardare la tastiera",
-      "D. L'installazione di telecamere di sorveglianza"
+      "A. La straordinaria capacità mnemonica di ricordare perfettamente ogni singola procedura operativa del manuale di sicurezza.",
+      "B. La percezione continua degli elementi ambientali, la comprensione del loro reale significato e la proiezione del loro stato.",
+      "C. L'installazione strategica di avanzati sistemi di telecamere di videosorveglianza per monitorare costantemente ogni stanza."
     ],
-    "answer": "B. La percezione degli elementi dell'ambiente, la comprensione del loro significato e la proiezione del loro stato futuro",
+    "answer": "B. La percezione continua degli elementi ambientali, la comprensione del loro reale significato e la proiezione del loro stato.",
     "explanation": "La SA di Endsley è \"The big picture understanding\": percepire (cosa accade), comprendere (significato) e proiettare (cosa accadrà) per prendere decisioni efficaci."
   },
   {
     "question": "Che cos'è il fenomeno della \"Cecità da disattenzione\" (Inattentional blindness)?",
     "options": [
-      "A. Un difetto visivo della retina",
-      "B. L'incapacità di vedere al buio",
-      "C. Non percepire uno stimolo visivo inatteso perché l'attenzione è focalizzata su un altro compito",
-      "D. Ignorare un pericolo di proposito per risparmiare tempo"
+      "A. Un grave difetto fisiologico e permanente della retina oculare che impedisce la corretta messa a fuoco periferica degli oggetti.",
+      "B. L'incapacità di percepire un evidente stimolo visivo inatteso poiché l'attenzione del soggetto è focalizzata su un altro compito.",
+      "C. La deliberata e volontaria tendenza a ignorare un grave pericolo ambientale al solo scopo di risparmiare tempo durante il lavoro."
     ],
-    "answer": "C. Non percepire uno stimolo visivo inatteso perché l'attenzione è focalizzata su un altro compito",
+    "answer": "B. L'incapacità di percepire un evidente stimolo visivo inatteso poiché l'attenzione del soggetto è focalizzata su un altro compito.",
     "explanation": "Come dimostrato dall'esperimento del 'gorilla invisibile', il cervello umano, a causa del limitato carico cognitivo, può letteralmente non vedere stimoli inattesi se focalizzato su altro."
   },
   {
     "question": "Quale effetto ha lo stress acuto sulla Consapevolezza Situazionale?",
     "options": [
-      "A. La migliora, rendendo la persona più vigile",
-      "B. La riduce, restringendo il campo attentivo e aumentando decisioni affrettate o eccessiva sicurezza",
-      "C. Non ha alcun effetto",
-      "D. Aiuta a leggere meglio le informazioni digitali"
+      "A. La migliora sensibilmente, rendendo la persona molto più vigile, concentrata e capace di analizzare ogni minimo dettaglio.",
+      "B. La riduce drasticamente, restringendo il campo attentivo e favorendo decisioni del tutto affrettate o un'eccessiva sicurezza.",
+      "C. Non ha alcun effetto rilevante sulla mente umana, poiché i professionisti addestrati riescono a isolare totalmente le emozioni."
     ],
-    "answer": "B. La riduce, restringendo il campo attentivo e aumentando decisioni affrettate o eccessiva sicurezza",
+    "answer": "B. La riduce drasticamente, restringendo il campo attentivo e favorendo decisioni del tutto affrettate o un'eccessiva sicurezza.",
     "explanation": "Lo stress acuto restringe l'attenzione ('tunnel vision'), porta a interrompere la ricerca di info e aumenta la propensione a prendere decisioni rischiose ed errate."
   },
   {
     "question": "Riguardo i due Sistemi di pensiero di Kahneman, come opera il \"Sistema 1\"?",
     "options": [
-      "A. In modo deliberativo, analitico, conscio e razionale",
-      "B. Lentamente e richiede grande sforzo cognitivo",
-      "C. In modo intuitivo, automatico, rapido, inconsapevole e senza sforzo",
-      "D. Esclusivamente per la risoluzione di complessi problemi matematici"
+      "A. Opera in modo prevalentemente deliberativo, estremamente analitico, sempre conscio e guidato dalla pura razionalità.",
+      "B. Opera in modo molto lento e sequenziale, richiedendo all'individuo un enorme e costante livello di sforzo cognitivo.",
+      "C. Opera in modo altamente intuitivo, del tutto automatico, rapido, perlopiù inconsapevole e senza reale sforzo mentale."
     ],
-    "answer": "C. In modo intuitivo, automatico, rapido, inconsapevole e senza sforzo",
+    "answer": "C. Opera in modo altamente intuitivo, del tutto automatico, rapido, perlopiù inconsapevole e senza reale sforzo mentale.",
     "explanation": "Il Sistema 1 opera in modo automatico e veloce, basandosi su associazioni ed emozioni per risparmiare energie cognitive."
   },
   {
     "question": "Come opera il \"Sistema 2\" (Kahneman)?",
     "options": [
-      "A. Automaticamente e senza sforzo",
-      "B. È basato puramente sull'istinto di sopravvivenza",
-      "C. In modo deliberativo, analitico, conscio, richiedendo attenzione e sforzo cognitivo",
-      "D. È il sistema responsabile dei bias emotivi"
+      "A. Opera sempre e in ogni situazione in modo del tutto automatico, fulmineo e senza richiedere alcuno sforzo cosciente.",
+      "B. Opera in modo deliberativo, analitico e conscio, richiedendo una profonda attenzione focalizzata e alto sforzo cognitivo.",
+      "C. Opera come il principale meccanismo psicologico responsabile della generazione di tutti i bias affettivi ed emozionali."
     ],
-    "answer": "C. In modo deliberativo, analitico, conscio, richiedendo attenzione e sforzo cognitivo",
+    "answer": "B. Opera in modo deliberativo, analitico e conscio, richiedendo una profonda attenzione focalizzata e alto sforzo cognitivo.",
     "explanation": "Il Sistema 2 entra in gioco per attività mentali complesse, è lento, razionale, faticoso e richiede grande focalizzazione."
   },
   {
     "question": "Che cos'è l'\"Euristica della disponibilità\"?",
     "options": [
-      "A. Valutare positivamente un prodotto perché è in sconto",
-      "B. Ritenere un evento più probabile se se ne ricordano facilmente degli esempi",
-      "C. Ignorare i fatti oggettivi per dare ragione al proprio capo",
-      "D. Comportarsi come fanno tutti gli altri"
+      "A. La tendenza psicologica a ritenere un evento molto più probabile semplicemente perché se ne ricordano facilmente degli esempi.",
+      "B. La tendenza a ignorare in modo sistematico tutti i fatti oggettivi e i dati matematici al solo scopo di assecondare il leader.",
+      "C. La naturale predisposizione umana ad abbandonare le proprie convinzioni per comportarsi esattamente come fa la massa circostante."
     ],
-    "answer": "B. Ritenere un evento più probabile se se ne ricordano facilmente degli esempi",
+    "answer": "A. La tendenza psicologica a ritenere un evento molto più probabile semplicemente perché se ne ricordano facilmente degli esempi.",
     "explanation": "Attribuiamo maggiore probabilità a eventi salienti o drammatici (es. incidente aereo) semplicemente perché ci vengono in mente con più facilità."
   },
   {
     "question": "Che cos'è il \"Bias dell'ottimismo\"?",
     "options": [
-      "A. Credere che le cose negative capitino più agli altri che a noi stessi",
-      "B. Cercare solo notizie positive sui giornali",
-      "C. Risolvere problemi matematici con approccio positivo",
-      "D. Credere ciecamente all'Intelligenza Artificiale"
+      "A. La profonda convinzione irrazionale che gli eventi avversi e le sfortune colpiscano molto più gli altri rispetto a noi stessi.",
+      "B. La tendenza psicologica a leggere e memorizzare unicamente le notizie positive sui quotidiani, ignorando le catastrofi globali.",
+      "C. La totale e incondizionata fiducia riposta dagli esseri umani nelle decisioni prese dai moderni sistemi di Intelligenza Artificiale."
     ],
-    "answer": "A. Credere che le cose negative capitino più agli altri che a noi stessi",
+    "answer": "A. La profonda convinzione irrazionale che gli eventi avversi e le sfortune colpiscano molto più gli altri rispetto a noi stessi.",
     "explanation": "È la tendenza a sopravvalutare le possibilità di esiti positivi per se stessi e sottovalutare la probabilità di esser colpiti da eventi negativi o minacce (es. cyber attacchi)."
   },
   {
     "question": "Come viene definito il \"Bias di conferma\"?",
     "options": [
-      "A. La tendenza a firmare contratti senza leggerli",
-      "B. Accettare qualsiasi informazione purché provenga da un'autorità",
-      "C. Tendenza a cercare e interpretare informazioni in modo che confermino le nostre credenze iniziali, ignorando le prove contrarie",
-      "D. Aver paura del rischio sconosciuto"
+      "A. La propensione ad accettare in modo totalmente acritico qualsiasi informazione falsa o inesatta purché provenga da una forte autorità.",
+      "B. La tendenza a cercare e interpretare informazioni in modo che confermino le nostre credenze, ignorando tutte le prove contrarie.",
+      "C. L'irrazionale e costante sensazione di timore profondo verso ogni forma di rischio del tutto nuovo o scientificamente sconosciuto."
     ],
-    "answer": "C. Tendenza a cercare e interpretare informazioni in modo che confermino le nostre credenze iniziali, ignorando le prove contrarie",
+    "answer": "B. La tendenza a cercare e interpretare informazioni in modo che confermino le nostre credenze, ignorando tutte le prove contrarie.",
     "explanation": "Questo bias ci porta a notare solo \"ciò che vogliamo vedere\" (es. gli algoritmi social), ignorando i dati oggettivi che contraddicono le nostre convinzioni (es. \"la mia azienda è al sicuro\")."
   },
   {
     "question": "Cosa spiega il \"Bandwagon effect\" (Effetto carrozzone)?",
     "options": [
-      "A. La tendenza a sostenere un'idea o usare una tecnologia solo perché lo fanno molte altre persone",
-      "B. La paura dei mezzi di trasporto pubblici",
-      "C. La reazione impulsiva in caso di incendio",
-      "D. L'incapacità di vedere stimoli imprevisti"
+      "A. La diffusa tendenza umana a sostenere un'idea o utilizzare una nuova tecnologia unicamente perché lo fanno moltissime altre persone.",
+      "B. La reazione puramente impulsiva e disorganizzata che spinge le folle a scappare in direzioni del tutto casuali in caso di incendio.",
+      "C. L'assoluta e dimostrata incapacità del cervello umano di elaborare in modo rapido determinati stimoli visivi o uditivi molto imprevisti."
     ],
-    "answer": "A. La tendenza a sostenere un'idea o usare una tecnologia solo perché lo fanno molte altre persone",
+    "answer": "A. La diffusa tendenza umana a sostenere un'idea o utilizzare una nuova tecnologia unicamente perché lo fanno moltissime altre persone.",
     "explanation": "Questo pregiudizio spinge ad adottare tecnologie (es. intelligenza artificiale) o comportamenti non per una valutazione razionale, ma per popolarità, ignorandone spesso i rischi."
   },
   {
     "question": "Nell'ambito della percezione della probabilità (Probability weighting), come valuta la mente umana le probabilità molto basse (es. lotteria)?",
     "options": [
-      "A. Le valuta in modo perfettamente matematico",
-      "B. Le sottovaluta sistematicamente",
-      "C. Le ignora del tutto",
-      "D. Le sovrastima (iper-ponderazione)"
+      "A. La mente le valuta sempre in modo perfettamente matematico e lineare, calcolando il reale valore atteso dell'evento.",
+      "B. La mente le sottovaluta in modo del tutto sistematico, ritenendole impossibili e rimuovendole dai processi decisionali.",
+      "C. La mente tende costantemente a sovrastimarle e a dar loro un peso eccessivo (fenomeno noto anche come iper-ponderazione)."
     ],
-    "answer": "D. Le sovrastima (iper-ponderazione)",
+    "answer": "C. La mente tende costantemente a sovrastimarle e a dar loro un peso eccessivo (fenomeno noto anche come iper-ponderazione).",
     "explanation": "Il nostro cervello non tratta le probabilità in modo lineare: tende a sovrastimare la probabilità di eventi molto rari (da qui il successo del gioco d'azzardo) e sottostimare i rischi molto frequenti."
   },
   {
     "question": "Cosa dimostra l'esperimento del \"The Asian disease problem\" (Framing Effect)?",
     "options": [
-      "A. Che le persone prendono sempre decisioni identiche",
-      "B. Che le pandemie sono impossibili da prevenire",
-      "C. Che presentare lo stesso problema in termini di \"vite salvate\" (guadagno) o \"vite perse\" (perdita) inverte le scelte delle persone",
-      "D. Che le persone asiatiche hanno una diversa percezione del rischio"
+      "A. Dimostra che, di fronte a scenari sanitari gravi, i diversi soggetti analizzati prendono sempre decisioni logiche e del tutto identiche.",
+      "B. Dimostra che presentare lo stesso identico problema descrivendo \"vite salvate\" oppure \"vite perse\" inverte drasticamente le scelte finali.",
+      "C. Dimostra che popolazioni geograficamente distanti sviluppano e manifestano una percezione statistica del rischio completamente differente."
     ],
-    "answer": "C. Che presentare lo stesso problema in termini di \"vite salvate\" (guadagno) o \"vite perse\" (perdita) inverte le scelte delle persone",
+    "answer": "B. Dimostra che presentare lo stesso identico problema descrivendo \"vite salvate\" oppure \"vite perse\" inverte drasticamente le scelte finali.",
     "explanation": "Il Framing Effect (effetto cornice) dimostra che le scelte cambiano drasticamente in base a come il problema viene posto testualmente, anche se le opzioni matematiche rimangono identiche."
   },
   {
     "question": "Che cosa postula l'\"Euristica dell'affettività\" riguardo alle nuove tecnologie?",
     "options": [
-      "A. Più una tecnologia è complessa, più è sicura",
-      "B. Più una tecnologia è associata a sentimenti positivi, meno è giudicata rischiosa e più se ne vedono i benefici",
-      "C. Nessuno usa tecnologie che suscitano affetto",
-      "D. La sicurezza informatica si basa sull'empatia"
+      "A. Stabilisce che più una tecnologia risulta articolata e intellettualmente complessa, più il pubblico la percepirà come intrinsecamente sicura.",
+      "B. Stabilisce che se una tecnologia genera sentimenti positivi, questa verrà giudicata meno rischiosa e con molti più benefici evidenti.",
+      "C. Stabilisce che le architetture di sicurezza informatica aziendale devono basarsi primariamente sull'empatia e sulla comunicazione assertiva."
     ],
-    "answer": "B. Più una tecnologia è associata a sentimenti positivi, meno è giudicata rischiosa e più se ne vedono i benefici",
+    "answer": "B. Stabilisce che se una tecnologia genera sentimenti positivi, questa verrà giudicata meno rischiosa e con molti più benefici evidenti.",
     "explanation": "Le decisioni rapide sono guidate dall'emozione: se qualcosa ci \"piace\" (valenza affettiva positiva), tendiamo ad abbassare la nostra guardia valutando i rischi come inferiori."
   },
   {
     "question": "L'attenzione si divide in \"Endogena\" ed \"Esogena\". Qual è la caratteristica dell'attenzione Esogena?",
     "options": [
-      "A. È volontaria e controllata per cercare un oggetto",
-      "B. Si applica solo negli ambienti lavorativi al chiuso",
-      "C. È involontaria e automatica, catturata improvvisamente da uno stimolo (es. rumore o flash)",
-      "D. Richiede un alto carico cognitivo"
+      "A. È una tipologia di attenzione pienamente volontaria, direzionata e controllata dalla mente per cercare attivamente un oggetto preciso.",
+      "B. È un riflesso cognitivo del tutto involontario e automatico, catturato improvvisamente da uno stimolo esterno come un forte rumore o un flash.",
+      "C. È una specifica modalità di concentrazione prolungata che richiede all'individuo un altissimo carico cognitivo e un immenso sforzo mnemonico."
     ],
-    "answer": "C. È involontaria e automatica, catturata improvvisamente da uno stimolo (es. rumore o flash)",
+    "answer": "B. È un riflesso cognitivo del tutto involontario e automatico, catturato improvvisamente da uno stimolo esterno come un forte rumore o un flash.",
     "explanation": "L'attenzione esogena è automatica e scatta senza la nostra intenzione quando un elemento esterno saliente cattura i nostri sensi."
   },
   {
     "question": "Il \"Carico mentale\" (Mental workload) in ambito lavorativo, se eccessivo, quale effetto collaterale può generare?",
     "options": [
-      "A. Aumento della percezione uditiva",
-      "B. Minore vulnerabilità agli attacchi hacker",
-      "C. Esaurimento delle risorse cognitive e comparsa della cecità da disattenzione verso altri pericoli",
-      "D. Incremento del pensiero analitico"
+      "A. Può generare un inaspettato ma significativo aumento della sensibilità e dell'acume della percezione uditiva e visiva periferica del lavoratore.",
+      "B. Può causare un grave esaurimento delle limitate risorse cognitive, favorendo la comparsa della cecità da disattenzione verso altri seri pericoli.",
+      "C. Può stimolare in modo positivo le sinapsi, provocando un notevole incremento delle capacità di pensiero analitico e di problem solving complesso."
     ],
-    "answer": "C. Esaurimento delle risorse cognitive e comparsa della cecità da disattenzione verso altri pericoli",
+    "answer": "B. Può causare un grave esaurimento delle limitate risorse cognitive, favorendo la comparsa della cecità da disattenzione verso altri seri pericoli.",
     "explanation": "Quando un compito richiede troppa attenzione e memoria, le risorse cognitive si esauriscono e il lavoratore non riesce a notare altri pericoli nell'ambiente."
   },
   {
     "question": "Come influiscono gli ambienti digitali sul processo decisionale dei manager in emergenza?",
     "options": [
-      "A. Riducono lo stress grazie alla velocità",
-      "B. Impediscono qualsiasi tipo di comunicazione",
-      "C. Generano sovraccarico di informazioni che aumenta lo stress percepito e abbassa la capacità di pensiero analitico",
-      "D. Migliorano matematicamente la percezione del rischio"
+      "A. Riducono drasticamente i livelli di ansia e di stress psicologico generale grazie alla straordinaria velocità di elaborazione dei server.",
+      "B. Generano un pericoloso sovraccarico di informazioni che innalza lo stress percepito e abbatte rapidamente la capacità di pensiero analitico.",
+      "C. Migliorano in modo oggettivo e matematicamente provato la percezione dei rischi aziendali fornendo dashboard e grafici sempre molto accurati."
     ],
-    "answer": "C. Generano sovraccarico di informazioni che aumenta lo stress percepito e abbassa la capacità di pensiero analitico",
+    "answer": "B. Generano un pericoloso sovraccarico di informazioni che innalza lo stress percepito e abbatte rapidamente la capacità di pensiero analitico.",
     "explanation": "L'information overload digitale causa stress, forzando la mente ad abbandonare il pensiero analitico a favore di reazioni intuitive, portando a errori gestionali durante crisi."
   },
   {
     "question": "Cosa si intende per 'Exceptional Violations' (Violazioni eccezionali) in tema di sicurezza?",
     "options": [
-      "A. Trasgredire le regole quotidiane per fare prima",
-      "B. Violazioni rare che si verificano in circostanze uniche, come violare protocolli durante un'emergenza estrema per salvare una vita",
-      "C. Rubare i dati aziendali intenzionalmente",
-      "D. Indossare il casco slacciato"
+      "A. La diffusa tendenza dei lavoratori a trasgredire intenzionalmente le rigide regole quotidiane al solo scopo di finire il turno di lavoro prima.",
+      "B. Sono violazioni rare in circostanze uniche, come l'infrazione di severi protocolli operativi in un'emergenza estrema per salvare vite umane.",
+      "C. Il grave e deliberato atto criminale di sottrarre o manipolare i dati aziendali sensibili allo scopo di rivenderli sul mercato nero informatico."
     ],
-    "answer": "B. Violazioni rare che si verificano in circostanze uniche, come violare protocolli durante un'emergenza estrema per salvare una vita",
+    "answer": "B. Sono violazioni rare in circostanze uniche, come l'infrazione di severi protocolli operativi in un'emergenza estrema per salvare vite umane.",
     "explanation": "A differenza di routine o situational violations, quelle eccezionali avvengono in contesti straordinari dove seguire le regole standard potrebbe causare danni maggiori (es. saltare procedure per scappare dal fuoco)."
   },
   {
     "question": "Perché le minacce informatiche (cyber risk) spesso non suscitano risposte adeguate da parte degli individui?",
     "options": [
-      "A. Perché sono sempre coperte dall'assicurazione",
-      "B. Perché il nostro cervello si è evoluto per rispondere a pericoli visibili e immediati, mentre i cyber risk sono invisibili e differiti",
-      "C. Perché i sistemi antivirus sono infallibili",
-      "D. Perché richiedono l'intervento della vigilanza privata"
+      "A. Perché nella mente delle persone i danni derivanti dagli attacchi informatici risultano sempre interamente coperti dalle polizze assicurative.",
+      "B. Perché il nostro cervello si è evoluto per reagire a pericoli fisici visibili e immediati, mentre le minacce cyber risultano del tutto invisibili e differite.",
+      "C. Perché la maggior parte dei moderni sistemi antivirus aziendali viene comunemente percepita come tecnologicamente perfetta e totalmente infallibile."
     ],
-    "answer": "B. Perché il nostro cervello si è evoluto per rispondere a pericoli visibili e immediati, mentre i cyber risk sono invisibili e differiti",
+    "answer": "B. Perché il nostro cervello si è evoluto per reagire a pericoli fisici visibili e immediati, mentre le minacce cyber risultano del tutto invisibili e differite.",
     "explanation": "L'essere umano non ha una risposta istintiva (come per un incendio) contro minacce invisibili e lontane nel tempo come i rischi cyber, portando a sottostimare e rimandare le difese."
   },
   {
     "question": "A livello di Consapevolezza Situazionale, se un pericolo è presente ma 'NON riconosciuto' dal lavoratore, cosa accade?",
     "options": [
-      "A. Il rischio viene valutato analiticamente",
-      "B. Si mettono subito in atto azioni precauzionali",
-      "C. Il rischio non viene percepito, i comportamenti sono inadeguati ed emerge l'esposizione al danno",
-      "D. Interviene il Sistema 2 di Kahneman"
+      "A. Il rischio oggettivo viene comunque compensato e accuratamente valutato in modo analitico dalle potenti difese tecnologiche passive della struttura.",
+      "B. Il rischio non viene in alcun modo percepito dal cervello, i comportamenti restano del tutto inadeguati e si concretizza l'esposizione al danno.",
+      "C. Interviene immediatamente il Sistema 2 di Kahneman, che analizza la situazione in background e corregge automaticamente ogni forma di errore umano."
     ],
-    "answer": "C. Il rischio non viene percepito, i comportamenti sono inadeguati ed emerge l'esposizione al danno",
+    "answer": "B. Il rischio non viene in alcun modo percepito dal cervello, i comportamenti restano del tutto inadeguati e si concretizza l'esposizione al danno.",
     "explanation": "Se manca il primo step (riconoscimento del pericolo), salta l'intero processo di elaborazione del rischio, portando a comportamenti insicuri e all'incidente."
   }
 ]
