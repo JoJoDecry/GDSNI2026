@@ -1,0 +1,317 @@
+[
+  {
+    "domanda": "Qual è la differenza più corretta tra awareness e training in ambito security?",
+    "risposte": [
+      "L'awareness è per tutti, il training è per ruoli specialistici",
+      "L'awareness è solo per i tecnici, il training per i dirigenti",
+      "L'awareness e il training sono sinonimi e non vanno distinti"
+    ],
+    "corretta": "L'awareness è per tutti, il training è per ruoli specialistici"
+  },
+  {
+    "domanda": "Quale affermazione descrive meglio il concetto di 'attack surface' (superficie d'attacco)?",
+    "risposte": [
+      "È l'insieme dei punti e dei canali sfruttabili per compromettere sistemi",
+      "È la quantità totale di banda di rete disponibile per l'infrastruttura",
+      "È il perimetro fisico esterno degli edifici direzionali o aziendali"
+    ],
+    "corretta": "È l'insieme dei punti e dei canali sfruttabili per compromettere sistemi"
+  },
+  {
+    "domanda": "Perché l'uso diffuso di smartphone può aumentare il rischio di phishing?",
+    "risposte": [
+      "Gli schermi piccoli rendono più difficile notare anomalie nei messaggi",
+      "I dispositivi mobili non supportano la crittografia per le connessioni",
+      "Le reti cellulari bloccano nativamente l'uso di filtri anti-spam"
+    ],
+    "corretta": "Gli schermi piccoli rendono più difficile notare anomalie nei messaggi"
+  },
+  {
+    "domanda": "Che cosa caratterizza tipicamente un attacco di smishing?",
+    "risposte": [
+      "Una tecnica di phishing veicolata tramite messaggi di tipo SMS",
+      "Una tecnica di sabotaggio fisico rivolta ai cavi in fibra ottica",
+      "Un attacco DDoS che satura unicamente le risorse dei server web"
+    ],
+    "corretta": "Una tecnica di phishing veicolata tramite messaggi di tipo SMS"
+  },
+  {
+    "domanda": "Qual è un rischio specifico legato ai deepfake in ambito aziendale?",
+    "risposte": [
+      "Permettono l'impersonificazione credibile per autorizzare frodi",
+      "Causano la riduzione della latenza di rete durante le videoconferenze",
+      "Impediscono l'applicazione di controlli di accesso basati sui ruoli"
+    ],
+    "corretta": "Permettono l'impersonificazione credibile per autorizzare frodi"
+  },
+  {
+    "domanda": "Come può l'Intelligenza Artificiale rendere più efficace il phishing?",
+    "risposte": [
+      "Rende i messaggi fraudolenti molto più credibili e personalizzati",
+      "Disabilita in modo silente tutti i firewall perimetrali aziendali",
+      "Elimina la necessità per l'attaccante di avere una connessione web"
+    ],
+    "corretta": "Rende i messaggi fraudolenti molto più credibili e personalizzati"
+  },
+  {
+    "domanda": "In che modo l'Intelligenza Artificiale incide sugli attacchi DDoS?",
+    "risposte": [
+      "Migliora l'orchestrazione e il mascheramento, complicando la mitigazione",
+      "Aumenta la potenza elettrica consumata causando incendi nei server",
+      "Sostituisce l'intera rete botnet con un singolo indirizzo IP statico"
+    ],
+    "corretta": "Migliora l'orchestrazione e il mascheramento, complicando la mitigazione"
+  },
+  {
+    "domanda": "Perché la creazione di malware assistita dall'IA è considerata molto pericolosa?",
+    "risposte": [
+      "Riduce le competenze tecniche necessarie per produrre codice malevolo",
+      "Rende del tutto inutili i backup offline costringendo all'uso del cloud",
+      "Obbliga i sistemi operativi a disinstallare autonomamente i propri antivirus"
+    ],
+    "corretta": "Riduce le competenze tecniche necessarie per produrre codice malevolo"
+  },
+  {
+    "domanda": "Quale delle seguenti opzioni descrive meglio un attaccante 'state-sponsored'?",
+    "risposte": [
+      "Un gruppo di criminali informatici supportato da interessi governativi",
+      "Un dipendente interno che causa accidentalmente l'esposizione dei dati",
+      "Un fornitore esterno che non applica tempestivamente le patch di rete"
+    ],
+    "corretta": "Un gruppo di criminali informatici supportato da interessi governativi"
+  },
+  {
+    "domanda": "Qual è una caratteristica tipica del profilo 'malicious insider'?",
+    "risposte": [
+      "Un soggetto che abusa dei propri privilegi di accesso legittimi interni",
+      "Un gruppo esterno che viola il sito web solo per motivazioni politiche",
+      "Un malware che si diffonde senza alcuna interazione con gli utenti"
+    ],
+    "corretta": "Un soggetto che abusa dei propri privilegi di accesso legittimi interni"
+  },
+  {
+    "domanda": "Qual è lo scopo principale di un Security Operation Center (SOC)?",
+    "risposte": [
+      "Monitorare costantemente, rilevare e gestire gli incidenti di sicurezza",
+      "Sostituire le funzioni dell'help desk IT e la gestione dell'hardware",
+      "Garantire matematicamente l'assenza totale di vulnerabilità nei sistemi"
+    ],
+    "corretta": "Monitorare costantemente, rilevare e gestire gli incidenti di sicurezza"
+  },
+  {
+    "domanda": "Che cosa significa fare 'tuning' delle soluzioni di monitoraggio?",
+    "risposte": [
+      "Affinare le regole di controllo per ridurre falsi positivi e negativi",
+      "Sostituire interamente l'hardware di rete con cadenza trimestrale",
+      "Disattivare i sistemi di allerta quando il volume dei log è elevato"
+    ],
+    "corretta": "Affinare le regole di controllo per ridurre falsi positivi e negativi"
+  },
+  {
+    "domanda": "Che cosa si intende con il termine 'shadow IT' all'interno di un'azienda?",
+    "risposte": [
+      "L'utilizzo di sistemi o servizi informatici senza approvazione e controllo",
+      "Una rete altamente sicura utilizzata in via esclusiva per i backup periodici",
+      "Il reparto incaricato di testare i software prima del rilascio in produzione"
+    ],
+    "corretta": "L'utilizzo di sistemi o servizi informatici senza approvazione e controllo"
+  },
+  {
+    "domanda": "Qual è un obiettivo tipico delle attività di threat hunting?",
+    "risposte": [
+      "La ricerca proattiva di segnali di compromissione non ancora rilevati",
+      "L'installazione di nuovi firewall per bloccare tutto il traffico in ingresso",
+      "La revisione contabile dei costi associati alle licenze dei vari antivirus"
+    ],
+    "corretta": "La ricerca proattiva di segnali di compromissione non ancora rilevati"
+  },
+  {
+    "domanda": "Qual è un reale beneficio dell'Information Sharing tra organizzazioni (modello PPP)?",
+    "risposte": [
+      "Migliora la consapevolezza globale su minacce e difese tra le aziende",
+      "Comporta l'eliminazione definitiva di ogni rischio delegando allo Stato",
+      "Sostituisce l'esigenza di possedere un team per gestire incidenti IT"
+    ],
+    "corretta": "Migliora la consapevolezza globale su minacce e difese tra le aziende"
+  },
+  {
+    "domanda": "Quale scenario descrive in modo corretto un rischio legato alle terze parti?",
+    "risposte": [
+      "Un incidente informatico presso un fornitore che impatta direttamente il cliente",
+      "Un utente distratto che dimentica la password di dominio e contatta l'help desk",
+      "Un router perimetrale con una configurazione obsoleta che rallenta il traffico"
+    ],
+    "corretta": "Un incidente informatico presso un fornitore che impatta direttamente il cliente"
+  },
+  {
+    "domanda": "Quando un fornitore di servizi IT diventa particolarmente critico per la sicurezza?",
+    "risposte": [
+      "Quando dispone di accesso da remoto diretto ai sistemi e dati aziendali",
+      "Quando consegna i documenti di progetto in formato testo anziché in PDF",
+      "Quando fornisce servizi di pulizia senza alcun contatto con la rete informatica"
+    ],
+    "corretta": "Quando dispone di accesso da remoto diretto ai sistemi e dati aziendali"
+  },
+  {
+    "domanda": "Che cosa si intende per 'rischio residuo' nell'analisi di sicurezza?",
+    "risposte": [
+      "Il livello di rischio che permane dopo aver applicato le misure di mitigazione",
+      "Il livello di pericolo calcolato prima di implementare le contromisure tecniche",
+      "La percentuale di rischio associata unicamente all'uso dei telefoni personali"
+    ],
+    "corretta": "Il livello di rischio che permane dopo aver applicato le misure di mitigazione"
+  },
+  {
+    "domanda": "Perché la regola della segregazione dei compiti (Segregation of Duties) è importante?",
+    "risposte": [
+      "Evita che una singola persona abbia il controllo totale su un intero processo",
+      "Rende inutile registrare i log poiché limita l'accesso ai locali dei server",
+      "Impedisce a qualsiasi utente tecnico di ottenere privilegi di amministratore"
+    ],
+    "corretta": "Evita che una singola persona abbia il controllo totale su un intero processo"
+  },
+  {
+    "domanda": "Nel modello dei controlli interni a tre linee, cosa fa tipicamente la 'prima linea'?",
+    "risposte": [
+      "Esegue i controlli operativi e gestisce i rischi nelle attività di tutti i giorni",
+      "Si occupa di emanare regolamenti di validità nazionale per la sicurezza dati",
+      "Svolge solo audit totalmente indipendenti senza contatti diretti col business"
+    ],
+    "corretta": "Esegue i controlli operativi e gestisce i rischi nelle attività di tutti i giorni"
+  },
+  {
+    "domanda": "Qual è il compito principale della 'seconda linea' di controllo (Governance/Risk)?",
+    "risposte": [
+      "Definisce le linee guida, i metodi di valutazione e monitora la conformità",
+      "Si sostituisce al personale IT per eseguire materialmente gli aggiornamenti",
+      "Installa fisicamente telecamere e tornelli per l'accesso agli stabilimenti"
+    ],
+    "corretta": "Definisce le linee guida, i metodi di valutazione e monitora la conformità"
+  },
+  {
+    "domanda": "Qual è l'obiettivo finale dell'utilizzo del ciclo PDCA (Plan-Do-Check-Act) per la security?",
+    "risposte": [
+      "Fornire una struttura logica per il miglioramento continuo del sistema di gestione",
+      "Garantire la risoluzione definitiva e permanente di qualsiasi incidente informatico",
+      "Eliminare in modo definitivo la necessità di pianificare sessioni di formazione"
+    ],
+    "corretta": "Fornire una struttura logica per il miglioramento continuo del sistema di gestione"
+  },
+  {
+    "domanda": "All'interno del ciclo PDCA, cosa prevede specificamente la fase denominata 'CHECK'?",
+    "risposte": [
+      "Si concentra su monitoraggio, misurazione, audit e investigazione degli incidenti",
+      "Riguarda la scelta iniziale dei fornitori e la sottoscrizione dei relativi contratti",
+      "Prevede l'installazione dei server fisici all'interno dei data center aziendali"
+    ],
+    "corretta": "Si concentra su monitoraggio, misurazione, audit e investigazione degli incidenti"
+  },
+  {
+    "domanda": "Quale concetto è alla base dell'affermazione 'La sicurezza è un processo'?",
+    "risposte": [
+      "Indica che la sicurezza richiede azioni continue e adattamenti nel corso del tempo",
+      "Significa che redigere un documento di policy elimina ogni possibile minaccia",
+      "Sottintende che i problemi si risolvono solo comprando nuovi costosi software"
+    ],
+    "corretta": "Indica che la sicurezza richiede azioni continue e adattamenti nel corso del tempo"
+  },
+  {
+    "domanda": "Cosa si intende per Business Continuity Management in un'organizzazione?",
+    "risposte": [
+      "La capacità di mantenere operativi o ripristinare i servizi critici dopo un evento",
+      "Il processo di esternalizzazione delle risorse per ridurre i costi operativi aziendali",
+      "Una certificazione dedicata in modo esclusivo alle linee di produzione manifatturiera"
+    ],
+    "corretta": "La capacità di mantenere operativi o ripristinare i servizi critici dopo un evento"
+  },
+  {
+    "domanda": "Quali elementi costituiscono le basi della Cyber Resilience aziendale?",
+    "risposte": [
+      "La capacità di prevenire, assorbire, adattarsi e riprendersi da attacchi informatici",
+      "L'installazione di una singola soluzione antivirus monolitica su tutti i dispositivi",
+      "Il divieto di stabilire connessioni di rete con aziende partner o enti esterni"
+    ],
+    "corretta": "La capacità di prevenire, assorbire, adattarsi e riprendersi da attacchi informatici"
+  },
+  {
+    "domanda": "Quale approccio è più efficace per ridurre drasticamente il tempo di risposta agli incidenti?",
+    "risposte": [
+      "L'utilizzo di playbook strutturati, ruoli ben definiti e procedure di intervento",
+      "Richiedere agli utenti di raddoppiare le lunghezze delle password durante un attacco",
+      "Cancellare preventivamente tutti i log di sistema per non lasciare tracce agli hacker"
+    ],
+    "corretta": "L'utilizzo di playbook strutturati, ruoli ben definiti e procedure di intervento"
+  },
+  {
+    "domanda": "Perché un modello di security deve coprire necessariamente anche le reti industriali (OT)?",
+    "risposte": [
+      "Un attacco informatico in ambito OT può causare danni fisici e fermare la produzione",
+      "I sistemi industriali utilizzano protocolli web identici a quelli delle reti Wi-Fi pubbliche",
+      "L'ambiente produttivo è intrinsecamente immune ai virus e non richiede firewall logici"
+    ],
+    "corretta": "Un attacco informatico in ambito OT può causare danni fisici e fermare la produzione"
+  },
+  {
+    "domanda": "Che cosa definisce esattamente una 'Security Baseline' per una sede aziendale?",
+    "risposte": [
+      "L'insieme minimo di misure di sicurezza standard previste in base al livello di rischio",
+      "Uno schema di indirizzamento IP ideato per separare le reti degli uffici amministrativi",
+      "Una lista di desiderata tecnologici senza alcun valore vincolante per l'intera azienda"
+    ],
+    "corretta": "L'insieme minimo di misure di sicurezza standard previste in base al livello di rischio"
+  },
+  {
+    "domanda": "Qual è il vantaggio di strutturare i documenti di sicurezza in modo gerarchico?",
+    "risposte": [
+      "Assicura piena coerenza tra i principi generali, i processi e le istruzioni operative",
+      "Serve solo a produrre enormi volumi di documenti formali per superare le ispezioni",
+      "Riduce drasticamente la necessità di effettuare i controlli tecnici sulle reti logiche"
+    ],
+    "corretta": "Assicura piena coerenza tra i principi generali, i processi e le istruzioni operative"
+  },
+  {
+    "domanda": "Qual è l'obiettivo principale di integrare Security, Safety e Privacy in un unico modello?",
+    "risposte": [
+      "Permette di gestire i rischi in modo congiunto evitando duplicazioni e zone grigie",
+      "Elimina del tutto la necessità di eseguire valutazioni dei rischi all'interno dei reparti",
+      "Assicura in maniera automatica il rispetto delle norme senza richiedere alcun intervento"
+    ],
+    "corretta": "Permette di gestire i rischi in modo congiunto evitando duplicazioni e zone grigie"
+  },
+  {
+    "domanda": "Quale standard internazionale certifica un Sistema di Gestione per la Sicurezza delle Informazioni?",
+    "risposte": [
+      "Lo standard ISO/IEC 27001, focalizzato specificamente sulla tutela di dati e sistemi IT",
+      "La norma ISO 45001, dedicata unicamente alla prevenzione degli infortuni fisici in cantiere",
+      "Lo standard ISO 14001, che regola l'ottimizzazione del rendimento energetico aziendale"
+    ],
+    "corretta": "Lo standard ISO/IEC 27001, focalizzato specificamente sulla tutela di dati e sistemi IT"
+  },
+  {
+    "domanda": "A quale norma fa riferimento la certificazione di un Sistema di Business Continuity?",
+    "risposte": [
+      "Fornisce i requisiti normativi lo standard internazionale noto con la sigla ISO 22301",
+      "È dedicata in via esclusiva la direttiva europea sul trattamento dei dati denominata GDPR",
+      "È una certificazione tecnica per garantire la qualità dei processi logistici chiamata ISO 9001"
+    ],
+    "corretta": "Fornisce i requisiti normativi lo standard internazionale noto con la sigla ISO 22301"
+  },
+  {
+    "domanda": "A cosa serve in sintesi il Crisis Plan all'interno di una grande organizzazione?",
+    "risposte": [
+      "Definisce chiaramente il sistema organizzativo, i ruoli e i flussi decisionali durante le emergenze",
+      "È un inventario elettronico che cataloga tutti i dispositivi hardware presenti negli uffici centrali",
+      "È un documento tecnico che sostituisce i sistemi di backup dei dati con piani di comunicazione"
+    ],
+    "corretta": "Definisce chiaramente il sistema organizzativo, i ruoli e i flussi decisionali durante le emergenze"
+  },
+  {
+    "domanda": "Qual è l'indicatore principale del successo di un programma di Security Awareness?",
+    "risposte": [
+      "L'aumento del livello di cautela e delle segnalazioni spontanee da parte degli utenti aziendali",
+      "Il totale azzeramento di qualsiasi tipo di violazione informatica all'interno della rete perimetrale",
+      "L'eliminazione dei controlli tecnici avanzati come i firewall o i sistemi antispam sui server email"
+    ],
+    "corretta": "L'aumento del livello di cautela e delle segnalazioni spontanee da parte degli utenti aziendali"
+  }
+]
