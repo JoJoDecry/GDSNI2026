@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Qual è la principale differenza tra una Permacrisi e una Policrisi secondo il materiale di studio?",
+        "options": [
+            "La Permacrisi riguarda solo il settore finanziario, mentre la Policrisi si applica ai disastri naturali.",
+            "Sono sinonimi e si riferiscono entrambi a una crisi prolungata nel tempo senza soluzione apparente.",
+            "La Permacrisi è un'emergenza costante, mentre la Policrisi è la coesistenza di più emergenze diverse simultanee."
+        ],
+        "answer": "La Permacrisi è un'emergenza costante, mentre la Policrisi è la coesistenza di più emergenze diverse simultanee.",
+        "explanation": "La Permacrisi è una condizione di crisi costante, mentre la Policrisi implica la coesistenza contemporanea di più emergenze interrelate (es. energetica, finanziaria, ambientale)."
+    },
+    {
+        "question": "Nella classificazione delle crisi, qual è l'elemento che distingue un'Emergenza da un Incidente?",
+        "options": [
+            "L'emergenza determina una sproporzione tra le risorse disponibili e i bisogni crescenti.",
+            "L'incidente ha impatti esclusivamente sulle infrastrutture, mentre l'emergenza colpisce le persone.",
+            "L'emergenza richiede sempre l'intervento delle forze dell'ordine e dei vigili del fuoco."
+        ],
+        "answer": "L'emergenza determina una sproporzione tra le risorse disponibili e i bisogni crescenti.",
+        "explanation": "L'emergenza è definita come una situazione che necessita dell'attivazione di risorse di soccorso (ordinarie o straordinarie) e determina una sproporzione tra risorse e bisogni."
+    },
+    {
+        "question": "Secondo la Direttiva UE 2022/2554 (DORA), qual è l'obiettivo principale per il settore finanziario?",
+        "options": [
+            "Aumentare la sicurezza fisica delle filiali bancarie contro le rapine.",
+            "Rafforzare la resilienza operativa digitale e gestire i rischi ICT.",
+            "Prevenire infortuni fisici e gestire emergenze nei luoghi di lavoro."
+        ],
+        "answer": "Rafforzare la resilienza operativa digitale e gestire i rischi ICT.",
+        "explanation": "Il regolamento DORA mira a garantire la resilienza ICT nel settore finanziario, includendo la gestione dei rischi ICT, i test di resilienza e la gestione degli incidenti."
+    },
+    {
+        "question": "Cosa si intende per 'disastro NaTech' secondo la classificazione di Gill e Ritchie?",
+        "options": [
+            "Un disastro tecnologico causato esclusivamente dall'errore umano.",
+            "Un evento critico che colpisce unicamente il settore delle telecomunicazioni.",
+            "Un disastro naturale che provoca un disastro tecnologico."
+        ],
+        "answer": "Un disastro naturale che provoca un disastro tecnologico.",
+        "explanation": "I disastri NaTech (Natural-Technological) si verificano quando una forza naturale causa un malfunzionamento o un collasso tecnologico, come il caso di Fukushima."
+    },
+    {
+        "question": "Nello standard ISO 22361 sul Crisis Management, cosa si intende per 'decisione difendibile'?",
+        "options": [
+            "Una decisione presa all'unanimità da tutto il Crisis Management Team senza dissensi.",
+            "Una decisione necessaria, proporzionata, legale, etica e coerente con i valori dell'organizzazione.",
+            "Una decisione che garantisce l'assenza totale di conseguenze legali per l'azienda."
+        ],
+        "answer": "Una decisione necessaria, proporzionata, legale, etica e coerente con i valori dell'organizzazione.",
+        "explanation": "Le revisioni post-crisi valutano se le decisioni erano difendibili, ovvero necessarie, proporzionate, legali, etiche e coerenti con i valori in base alle conoscenze del momento."
+    },
+    {
+        "question": "Quale ruolo svolge il Crisis Management Team (CMT) nella fase 'pre-evento'?",
+        "options": [
+            "Esegue le procedure di ripristino dei sistemi informatici post-incidente.",
+            "Identifica e valuta i rischi, predispone piani e monitora i segnali deboli.",
+            "Si occupa esclusivamente di redigere il report finale con le lezioni apprese."
+        ],
+        "answer": "Identifica e valuta i rischi, predispone piani e monitora i segnali deboli.",
+        "explanation": "Prima dell'evento, il CMT analizza, pianifica, prepara, informa ed effettua esercitazioni, oltre a monitorare i segnali deboli premonitori."
+    },
+    {
+        "question": "Cosa differenzia un 'Disastro' da una 'Catastrofe' nell'ambito della Protezione Civile?",
+        "options": [
+            "Sono termini perfettamente intercambiabili nella normativa italiana vigente.",
+            "La catastrofe richiede un intervento centrale dello Stato per sconvolgimento delle infrastrutture.",
+            "Il disastro coinvolge sempre vittime umane, la catastrofe riguarda solo danni materiali."
+        ],
+        "answer": "La catastrofe richiede un intervento centrale dello Stato per sconvolgimento delle infrastrutture.",
+        "explanation": "Una catastrofe richiede l'intervento dello Stato perché sconvolge infrastrutture e comunicazioni, a prescindere dal numero di vittime, determinando una grave carenza di risorse."
+    },
+    {
+        "question": "Qual è il principale obiettivo di un Tabletop Exercise (TTX) nel Crisis Management?",
+        "options": [
+            "Testare fisicamente l'evacuazione di un edificio in condizioni di estremo stress operativo.",
+            "Sviluppare o rivedere piani di risposta e risolvere problemi tramite una discussione facilitata.",
+            "Verificare i sistemi di backup informatico scollegando l'alimentazione principale dell'azienda."
+        ],
+        "answer": "Sviluppare o rivedere piani di risposta e risolvere problemi tramite una discussione facilitata.",
+        "explanation": "Un TTX simula un'emergenza in un ambiente informale per far riflettere i partecipanti sull'impatto potenziale e rivedere piani e procedure senza stress reale."
+    },
+    {
+        "question": "In un evento cyber, quali caratteristiche ne determinano la trasformazione in una vera e propria 'crisi'?",
+        "options": [
+            "L'interruzione di servizi essenziali, il coinvolgimento di dati strategici e l'impatto reputazionale.",
+            "Il fatto che venga rilevato dall'antivirus e richieda il riavvio dei server aziendali.",
+            "La compromissione del solo sito web aziendale senza furto di dati o blocco operativo."
+        ],
+        "answer": "L'interruzione di servizi essenziali, il coinvolgimento di dati strategici e l'impatto reputazionale.",
+        "explanation": "Un incidente cyber diventa crisi quando interrompe servizi essenziali, coinvolge dati strategici/sensibili, genera impatto reputazionale e richiede comunicazione istituzionale."
+    },
+    {
+        "question": "Nelle priorità aziendali durante una crisi, qual è statisticamente l'obiettivo considerato più importante?",
+        "options": [
+            "Prendersi cura delle persone e della loro salute/sicurezza.",
+            "Evitare sanzioni normative e regolamentari dalle autorità.",
+            "Mantenere la continuità operativa dei servizi e dei processi."
+        ],
+        "answer": "Prendersi cura delle persone e della loro salute/sicurezza.",
+        "explanation": "Secondo le survey presentate, 'Prendersi cura delle persone' (Salute e Sicurezza) è sempre l'obiettivo con la priorità massima durante un evento critico."
+    },
+    {
+        "question": "Secondo la ISO 22361, quali sono le quattro fasi del Crisis Management Trasformativo?",
+        "options": [
+            "Risk analysis, Incident response, Disaster recovery, Normalization.",
+            "Crisis preparation, Crisis containment, Crisis recovery, Post crisis growth.",
+            "Emergency detection, Resource allocation, Media communication, Final review."
+        ],
+        "answer": "Crisis preparation, Crisis containment, Crisis recovery, Post crisis growth.",
+        "explanation": "Il modello trasformativo include la preparazione, il contenimento, il recupero e infine la crescita post-crisi (Post crisis growth) a livello cognitivo, emotivo, sociale ed economico."
+    },
+    {
+        "question": "Quale scopo principale ha la Direttiva NIS2 (UE 2022/2555) recepita dal D.Lgs. 138/2024?",
+        "options": [
+            "Regolamentare l'uso dei social media da parte dei dipendenti delle pubbliche amministrazioni.",
+            "Garantire la continuità dei servizi fisici nelle infrastrutture di trasporto e idriche.",
+            "Rafforzare la sicurezza delle reti e sistemi informativi per prevenire o ridurre l'impatto degli incidenti."
+        ],
+        "answer": "Rafforzare la sicurezza delle reti e sistemi informativi per prevenire o ridurre l'impatto degli incidenti.",
+        "explanation": "La NIS2 impone ai soggetti essenziali e importanti l'adozione di misure per gestire i rischi di sicurezza informatica e notificare gli incidenti significativi."
+    },
+    {
+        "question": "A cosa serve principalmente il Business Continuity Plan (BCP)?",
+        "options": [
+            "A definire procedure per garantire la continuità operativa delle attività critiche.",
+            "A gestire esclusivamente la comunicazione esterna con i mass media.",
+            "A quantificare economicamente i danni subiti dall'azienda dopo un disastro."
+        ],
+        "answer": "A definire procedure per garantire la continuità operativa delle attività critiche.",
+        "explanation": "Il BCP (Business Continuity Plan) contiene le procedure operative per garantire la continuità delle funzioni aziendali critiche durante e dopo un'interruzione."
+    },
+    {
+        "question": "Qual è il ruolo della ISO 27031 nel quadro degli standard internazionali?",
+        "options": [
+            "Definire le strutture decisionali e di leadership per la gestione generica delle crisi aziendali.",
+            "Assicurare la resilienza dei sistemi informativi e il ripristino delle infrastrutture IT (Disaster Recovery).",
+            "Gestire il coordinamento delle operazioni di soccorso fisico in caso di terremoti."
+        ],
+        "answer": "Assicurare la resilienza dei sistemi informativi e il ripristino delle infrastrutture IT (Disaster Recovery).",
+        "explanation": "La ISO 27031 è lo standard specifico per la continuità ICT e il Disaster Recovery, focalizzandosi sul ripristino dei sistemi informativi."
+    },
+    {
+        "question": "Cosa ha evidenziato in particolare il maxi blackout della Penisola Iberica del 2025?",
+        "options": [
+            "La vulnerabilità derivante dalla forte dipendenza da infrastrutture centralizzate e interconnesse.",
+            "L'inefficacia totale dei generatori di emergenza negli ospedali spagnoli e portoghesi.",
+            "L'elevato rischio di attacchi hacker coordinati contro le reti elettriche europee."
+        ],
+        "answer": "La vulnerabilità derivante dalla forte dipendenza da infrastrutture centralizzate e interconnesse.",
+        "explanation": "L'analisi ex-post ha evidenziato che la forte interdipendenza delle reti nazionali ha amplificato l'effetto domino di guasti tecnici, causando il blackout."
+    },
+    {
+        "question": "Secondo le survey sul Crisis Management, quale attività viene maggiormente svolta 'DOPO' una crisi?",
+        "options": [
+            "Ricerca di nuovi fornitori critici per ridurre i costi operativi a lungo termine.",
+            "Attivazione immediata delle procedure di emergenza per salvaguardare i dipendenti.",
+            "Aumento nella frequenza delle riunioni del Crisis Management Team e revisione delle procedure."
+        ],
+        "answer": "Aumento nella frequenza delle riunioni del Crisis Management Team e revisione delle procedure.",
+        "explanation": "Dopo una crisi, le attività principali includono l'aumento delle riunioni del CMT (74%), la revisione delle procedure (58%) e degli scenari considerati."
+    },
+    {
+        "question": "Come viene definito il passaggio sequenziale dalla normalità alla crisi estrema?",
+        "options": [
+            "Incidente -> Emergenza -> Crisi",
+            "Crisi -> Incidente -> Catastrofe",
+            "Emergenza -> Incidente -> Disastro"
+        ],
+        "answer": "Incidente -> Emergenza -> Crisi",
+        "explanation": "Il percorso evolutivo verso la crisi, mostrato graficamente nel materiale, parte dall'Incidente, scala a Emergenza, e può culminare nella Crisi vera e propria."
+    },
+    {
+        "question": "Cosa richiede la Direttiva CER (UE 2022/2557) agli Stati membri?",
+        "options": [
+            "Di migrare tutti i servizi essenziali su piattaforme cloud pubbliche entro il 2026.",
+            "Di creare un unico ente di Protezione Civile a livello europeo per le maxi-emergenze.",
+            "Di individuare i soggetti critici in settori chiave e rafforzarne la resilienza operativa."
+        ],
+        "answer": "Di individuare i soggetti critici in settori chiave e rafforzarne la resilienza operativa.",
+        "explanation": "La Direttiva CER prevede l'identificazione dei soggetti critici (energia, trasporti, sanità, ecc.) per aumentarne la resilienza e garantire i servizi essenziali."
+    },
+    {
+        "question": "Quale elemento NON fa parte del contenuto tipico di un Crisis Management Plan (CMP)?",
+        "options": [
+            "Il bilancio economico dettagliato e lo stato patrimoniale dell'azienda.",
+            "Le liste di reperibilità di manager, dipendenti e fornitori critici.",
+            "La determinazione dei livelli di allerta e la distribuzione delle responsabilità."
+        ],
+        "answer": "Il bilancio economico dettagliato e lo stato patrimoniale dell'azienda.",
+        "explanation": "Un CMP contiene livelli di allerta, responsabilità, liste di reperibilità, contatti e mezzi di emergenza, ma non tratta documentazione contabile o di bilancio."
+    },
+    {
+        "question": "Cosa si intende per 'Post Crisis Growth'?",
+        "options": [
+            "Il processo in cui un'organizzazione raggiunge un livello di funzionamento più elevato imparando da un evento traumatico.",
+            "L'aumento inevitabile dei costi assicurativi che un'azienda deve sostenere dopo un incidente grave.",
+            "L'espansione del team di sicurezza fisica con nuove assunzioni dopo un attacco criminale."
+        ],
+        "answer": "Il processo in cui un'organizzazione raggiunge un livello di funzionamento più elevato imparando da un evento traumatico.",
+        "explanation": "La Post Crisis Growth (crescita post-traumatica organizzativa) avviene quando il sistema migliora le proprie capacità cognitive, emotive e operative grazie all'esperienza della crisi."
+    },
+    {
+        "question": "In merito alla 'Business Impact Analysis' (BIA), qual è la sua funzione principale?",
+        "options": [
+            "Individuare le cause tecnologiche di un attacco cyber avvenuto sui server dell'azienda.",
+            "Redigere i comunicati stampa da inviare ai media durante le prime 24 ore di un'emergenza.",
+            "Analizzare gli impatti operativi e finanziari derivanti dall'interruzione dei servizi aziendali."
+        ],
+        "answer": "Analizzare gli impatti operativi e finanziari derivanti dall'interruzione dei servizi aziendali.",
+        "explanation": "La BIA è lo strumento utilizzato nella Business Continuity per valutare l'impatto che l'interruzione di un processo o servizio critico avrebbe sull'organizzazione."
+    },
+    {
+        "question": "Qual è il focus primario della ISO 22320?",
+        "options": [
+            "Coordinare le operazioni di risposta alle emergenze tra le diverse organizzazioni coinvolte.",
+            "Prevenire infortuni sul lavoro attraverso la redazione di DVR aggiornati.",
+            "Garantire la continuità e il ripristino esclusivo dell'infrastruttura tecnologica e dei database."
+        ],
+        "answer": "Coordinare le operazioni di risposta alle emergenze tra le diverse organizzazioni coinvolte.",
+        "explanation": "La ISO 22320 fornisce linee guida per l'Emergency Management operativo, focalizzandosi sul comando, controllo e coordinamento tra organizzazioni durante un'emergenza."
+    },
+    {
+        "question": "Quale concetto è fondamentale nella gestione delle informazioni secondo lo standard ISO 22361?",
+        "options": [
+            "La Situational Awareness, ovvero la consapevolezza costante della situazione operativa in atto.",
+            "La delega totale delle comunicazioni alle forze dell'ordine e alla Protezione Civile.",
+            "La segretezza totale, evitando di comunicare informazioni a chiunque fuori dal Crisis Team."
+        ],
+        "answer": "La Situational Awareness, ovvero la consapevolezza costante della situazione operativa in atto.",
+        "explanation": "La ISO 22361 basa i suoi pilastri su leadership, strutture organizzative e gestione delle informazioni orientata al mantenimento della 'situational awareness'."
+    },
+    {
+        "question": "Perché è fondamentale il monitoraggio degli 'Early Signals' (segnali deboli)?",
+        "options": [
+            "Perché permette di rilevare anomalie in anticipo ed evitare che la situazione degeneri in crisi.",
+            "Perché è un requisito di legge obbligatorio per tutte le aziende, pena la chiusura dell'attività.",
+            "Perché serve a individuare i responsabili di un guasto prima di avviare azioni legali."
+        ],
+        "answer": "Perché permette di rilevare anomalie in anticipo ed evitare che la situazione degeneri in crisi.",
+        "explanation": "I segnali deboli (early signals) permettono di anticipare gli eventi avversi e intervenire preventivamente, riducendo il rischio che si trasformino in emergenze complesse."
+    },
+    {
+        "question": "Secondo le disposizioni del D.Lgs. 81/2008, quale obbligo spetta al Datore di Lavoro in merito alle emergenze?",
+        "options": [
+            "Demandare la responsabilità della sicurezza unicamente all'azienda fornitrice del sistema informatico.",
+            "Sostituire personalmente i dipendenti assenti durante un'emergenza per mantenere la produzione.",
+            "Designare preventivamente i lavoratori incaricati delle misure antincendio, evacuazione e primo soccorso."
+        ],
+        "answer": "Designare preventivamente i lavoratori incaricati delle misure antincendio, evacuazione e primo soccorso.",
+        "explanation": "Il D.Lgs. 81/2008 (Testo Unico sulla Salute e Sicurezza) obbliga il Datore di Lavoro a organizzare il primo soccorso e a nominare gli addetti per la gestione delle emergenze e l'evacuazione."
+    },
+    {
+        "question": "Cosa si intende per approccio metodologico integrato nella gestione delle crisi?",
+        "options": [
+            "La sinergia continua e coordinata tra Incident Response, Crisis Management e Business Continuity.",
+            "L'utilizzo di un unico software fornito dalla Protezione Civile per gestire ogni tipo di emergenza.",
+            "La tendenza ad assumere personale esterno solo quando l'emergenza è ormai in fase conclamata."
+        ],
+        "answer": "La sinergia continua e coordinata tra Incident Response, Crisis Management e Business Continuity.",
+        "explanation": "Un approccio integrato, come mostrato nel Crisis Management Framework, coordina le fasi preventive e reattive, legando gestione incidenti, crisi e continuità operativa."
+    },
+    {
+        "question": "In un Crisis Team, l'attività 'ambasciatoria' a cosa si riferisce?",
+        "options": [
+            "Alla gestione dei rapporti con il Top Management e con gli interlocutori esterni.",
+            "All'invio di personale aziendale in missione presso sedi estere per recuperare dati persi.",
+            "Alla stesura di documenti legali da presentare alle autorità giudiziarie in caso di disastro."
+        ],
+        "answer": "Alla gestione dei rapporti con il Top Management e con gli interlocutori esterni.",
+        "explanation": "L'attività ambasciatoria del CMT consiste proprio nel curare e mantenere le relazioni istituzionali verso l'esterno e verso i vertici aziendali."
+    },
+    {
+        "question": "Quale lezione appresa principale è emersa dal blackout iberico del 2025 riguardo al settore sanitario?",
+        "options": [
+            "È necessario eliminare del tutto le cartelle cliniche elettroniche per tornare al supporto cartaceo.",
+            "Le ambulanze devono essere dotate di propri pannelli solari per operare in autonomia.",
+            "Gli ospedali devono garantire operatività anche con limitazioni infrastrutturali elettriche e digitali."
+        ],
+        "answer": "Gli ospedali devono garantire operatività anche con limitazioni infrastrutturali elettriche e digitali.",
+        "explanation": "Il caso ha evidenziato che la sanità è strettamente dipendente da energia e telecomunicazioni, per cui gli ospedali devono potersi adattare a operare con sistemi digitali ed elettrici limitati."
+    },
+    {
+        "question": "Come agisce la 'Crisis Room' durante un evento avverso?",
+        "options": [
+            "È uno spazio fisico destinato unicamente all'accoglienza dei familiari dei dipendenti coinvolti.",
+            "Si limita a registrare i danni materiali subiti senza alcun potere decisionale sugli interventi.",
+            "Centralizza i dati, seleziona elementi rilevanti, definisce logiche d'intervento e ruoli."
+        ],
+        "answer": "Centralizza i dati, seleziona elementi rilevanti, definisce logiche d'intervento e ruoli.",
+        "explanation": "La Crisis Room (o Crisis Center) sistematizza i dati, seleziona elementi rilevanti, accelera il processo decisionale e definisce specifiche operazioni da attuare."
+    },
+    {
+        "question": "In cosa consiste la fase di 'Lessons Learned' post-crisi?",
+        "options": [
+            "Nel consolidare i miglioramenti apportati e testati dopo l'evento, facendoli diventare patrimonio dell'azienda.",
+            "Nella ricerca attiva dei colpevoli dell'incidente per avviare procedure di licenziamento o denunce.",
+            "Nello studio teorico di casi di crisi avvenuti in aziende concorrenti per evitare di commettere gli stessi errori."
+        ],
+        "answer": "Nel consolidare i miglioramenti apportati e testati dopo l'evento, facendoli diventare patrimonio dell'azienda.",
+        "explanation": "Secondo la ISO 22361, le lezioni apprese (lessons learned) si definiscono tali solo dopo aver apportato e testato miglioramenti organizzativi derivati dalla revisione post-crisi."
+    }
+]
